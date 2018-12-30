@@ -1,0 +1,18 @@
+Tome Of Fire
+1000
+Phoenix
+5000
+Dragon Axe
+10000
+Bruma Torch
+150
+Pyromancer Hood
+150
+Pyromancer Garb
+150
+Pyromancer Robe
+150
+Pyromancer Boots
+150
+Warm Gloves
+150

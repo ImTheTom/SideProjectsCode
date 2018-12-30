@@ -1,0 +1,61 @@
+@font-face {
+    font-family: ubuntu;
+    src: url(Ubuntu-L.ttf);
+}
+html {
+    max-width: 100%;
+    padding: 0px;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-family: ubuntu;
+    background: #2A3132;
+    color: #fff;
+    height: 90%;
+}
+/*Body and html overall style*/
+header {
+    z-index: 100 !important;
+    top: 0;
+    height: 50px;
+    position: fixed;
+    left: 80%;
+    width: 20%;
+    background: #2A3132;
+}
+/*header style and animation of the ease in and out*/
+header nav {
+    z-index: 101 !important;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+/*naviagiton inside the header position*/
+header nav a {
+    margin: 0 5px;
+    color: #fff;
+    text-decoration: none;
+}
+/*header naviagiton links style when not hovered*/
+header nav a:hover {
+    color: #90AFC5;
+}
+/*header naviagiton links decoration when hovered*/
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+html, body {
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}

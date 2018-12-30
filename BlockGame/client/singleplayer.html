@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="client/js/jquery-3.3.1.min.js"></script>
+    <script src="client/js/socket.io-1.4.5.js"></script>
+    <script type="text/javascript" src="client/js/single.js"></script>
+    <link href="client/css/single.css" rel="stylesheet" type="text/css" />
+    <title>Tom Bowyer - Block Game</title>
+</head>
+<header>
+    <nav>
+        <a href='/'>Home</a>
+        <a href='singleplayer'>Single Player</a>
+        <a href='multiplayer'>Multiplayer</a>
+        <a href='highscores'>Highscores</a>
+    </nav>
+</header>
+
+<body>
+    <h1>Block Game</h1>
+    <canvas id="previewCanvas" width="100" height="90" style="border:1px solid#000000;"></canvas>
+    <canvas id="tetrisCanvas" width="240" height="500" style="border:1px solid#000000;"></canvas>
+    <p id="timeText">Time </p>
+    <p id="scoreText">Score 0</p>
+    <p id="gameoverText">Not over</p>
+    <p id="status">Default</p>
+    <div id="namePos">
+        <!--Name form position-->
+        <label class="top" id="nameLabel">Name</label>
+        <!--Name form label-->
+        <input type="text" id="name" name="Name" value="Anon">
+        <!--Name form-->
+    </div>
+    <button id="sendScoreButton" onclick="SendScore()">Send Score</button>
+    <button onclick="StartOver()">Start</button>
+    <button onclick="StartOver()">Restart</button>
+    <button onclick="EndGame()">End</button>
+    <h1 id="infoTitle">How to Play</h1>
+    <p id="info">
+        Place the blocks so that a row is filled. When filled you are awarded one point and that row is deleted.
+        <br> After every 25 seconds it will alter the game a bit by either, flipping the board, leaning the board left or right, jumbling the rows, mirroring the board or selecting a new piece.
+        <br> Use a s d keys to shift the block that is dropping one block over.
+        <br> Use e key to rotate the block that is dropping.
+        <br> Use Space to shift the block that is dropping to the ground.
+        <br> To start the game press the start button, it also restarts the game. Restart ends the game and starts over, while end just ends the current game.
+        <br> When the game ends you can enter your score into the database.
+    </p>
+</body>
+
+</html>

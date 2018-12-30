@@ -1,0 +1,10 @@
+Spectral Sigil
+1365
+Arcane Sigil
+1365
+Elysian Sigil
+4095
+Holy Elixir
+171
+Pet Dark Core
+5000

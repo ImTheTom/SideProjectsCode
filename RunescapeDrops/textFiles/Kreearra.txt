@@ -1,0 +1,10 @@
+Armadyl Helmet
+384
+Armadyl Chestplate
+384
+Armadyl Chainskirt
+384
+Pet Kreearra
+5000
+Armadyl Hilt
+508

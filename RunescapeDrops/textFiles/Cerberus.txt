@@ -1,0 +1,12 @@
+Primordial Crystal
+512
+Pegasian Crystal
+512
+Eternal Crystal
+512
+Smouldering Stone
+512
+Jar of Souls
+2000
+Hellpuppy
+3000

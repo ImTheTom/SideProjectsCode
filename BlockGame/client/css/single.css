@@ -1,0 +1,123 @@
+@font-face {
+    font-family: ubuntu;
+    src: url(Ubuntu-L.ttf);
+}
+html {
+    max-width: 100%;
+    padding: 0px;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-family: ubuntu;
+    background: #2A3132;
+    color: #fff;
+    height: 90%;
+}
+/*Body and html overall style*/
+header {
+    z-index: 100 !important;
+    top: 0;
+    height: 50px;
+    position: fixed;
+    left: 80%;
+    width: 20%;
+    background: #2A3132;
+}
+/*header style and animation of the ease in and out*/
+header nav {
+    z-index: 101 !important;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+/*naviagiton inside the header position*/
+header nav a {
+    margin: 0 5px;
+    color: #fff;
+    text-decoration: none;
+}
+/*header naviagiton links style when not hovered*/
+header nav a:hover {
+    color: #90AFC5;
+}
+/*header naviagiton links decoration when hovered*/
+#tetrisCanvas{
+    left: 20%;
+    position: relative;
+}
+#previewCanvas{
+    left:40%;
+    top: -410px;
+    position: relative;
+}
+#timeText{
+    left:18%;
+    top: -500px;
+    position: relative;
+}
+#scoreText{
+    left:18%;
+    top: -490px;
+    position: relative;
+}
+#gameoverText{
+    left:18%;
+    top: -480px;
+    position: relative;
+}
+#status{
+    left:18%;
+    top: -470px;
+    position: relative;
+}
+#namePos{
+    left:18%;
+    top: -460px;
+    position: relative;
+}
+/*name form position*/
+#name{
+    width: 70px;
+    font-family: ubuntu;
+}
+/*name form size and style*/
+#sendScoreButton{
+    left:18%;
+    top: -450px;
+    position: relative;
+}
+button{
+    background-color: #2A3132;
+    color: white;
+    border: none;
+    border: 3px solid #2A3132;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    left:20%;
+    top:-150px;
+    position: relative;
+    cursor: pointer;
+}
+/*submit button style when not hovered and position*/
+button:hover{
+    background-color: White;
+    border: 3px solid White;
+    color: #2A3132;
+}
+/*submit button style when hovered*/
+#infoTitle{
+    top:-130px;
+    position: relative;
+}
+#info{
+    top:-130px;
+    position: relative;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+table {
+    margin: 0 auto;
+}

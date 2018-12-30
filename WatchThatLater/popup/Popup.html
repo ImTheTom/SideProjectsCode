@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Better Watch Later</title><!--Tab name-->
+  <meta charset = "UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="../css/popup.css" rel="stylesheet" type="text/css"/> <!--CSS that contains the styling for the page-->
+  <script type="text/javascript" src="../scripts/popup.js" defer></script> <!--Main js script-->
+</head>
+<body>
+    <h1 id ="title">Watch That Later</h1> <!-- Sets the title -->
+    <button type"button" id="leftButton"><</button>
+    <button type"button" id="rightButton">></button> <!-- Sets the buttons -->
+    <table id = "MainTable"> <!-- Creates the main table -->
+      <tr>
+        <td class="TableRow">
+          <div class="container">
+          <div class = "image" id="First"> <!-- Creates the first image -->
+          <a id = "URL" href="" target="_blank"> <!-- Sets up the hyperlink for the thumbnail -->
+            <img id = "Image" src = "" width = "210" height = "120"> <!-- sets up the thumbnail -->
+            <p class = "nameText" id="Name"></p> <!-- Sets up the name text -->
+            <p class = "timeText" id="Time"></p> <!-- Sets up the time text -->
+            <p class = "creatorText" id="Creator"></p> <!-- Sets up the creator text -->
+          </a>
+        </div>
+        <div class="overlayImage">
+          <img id="Delete" name="firstDelete"src="../icons/delete.png" height="20" width="20"/> <!-- Creates the overlay delete button on the thumbnail -->
+        </div>
+        <div class="shadowOverlay">
+            <a id = "URLOverlay" href="" target="_blank">
+          <img id="Shadow" name="firstOverlay"src="../icons/overlay.png" height="120" width="210"/> <!-- Creates the overlay shadow on the thumbnail -->
+            </a>
+        </div>
+      </div>
+        </td>
+      </tr>
+      <tr>
+        <td class="TableRow">
+            <div class="container">
+            <div class = "image" id="Second"> <!-- Creates the second image -->
+            <a id = "URL" href="" target="_blank"><!-- Sets up the hyperlink for the thumbnail -->
+              <img id = "Image" src = "" width = "210" height = "120"> <!-- sets up the thumbnail -->
+              <p class = "nameText" id="Name"></p> <!-- Sets up the name text -->
+              <p class = "timeText" id="Time"></p> <!-- Sets up the time text -->
+              <p class = "creatorText" id="Creator"></p> <!-- Sets up the creator text -->
+            </a>
+            </div>
+            <div class="overlayImage">
+                <img id="Delete" name="secondDelete"src="../icons/delete.png" height="20" width="20"/> <!-- Creates the overlay delete button on the thumbnail -->
+              </div>
+              <div class="shadowOverlay">
+                  <a id = "URLOverlay" href="" target="_blank">
+                <img id="Shadow" name="secondOverlay"src="../icons/overlay.png" height="120" width="210"/> <!-- Creates the overlay shadow on the thumbnail -->
+              </a>
+              </div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td class="TableRow">
+            <div class="container">
+          <div class = "image" id="Third"> <!-- Creates the third image -->
+          <a id = "URL" href="" target="_blank"><!-- Sets up the hyperlink for the thumbnail -->
+            <img id = "Image" src = "" width = "210" height = "120"> <!-- sets up the thumbnail -->
+            <p class = "nameText" id="Name"></p> <!-- Sets up the name text -->
+            <p class = "timeText" id="Time"></p> <!-- Sets up the time text -->
+            <p class = "creatorText" id="Creator"></p> <!-- Sets up the creator text -->
+          </a>
+            </div>
+            <div class="overlayImage">
+                <img id="Delete" name="thirdDelete" src="../icons/delete.png" height="20" width="20"/> <!-- Creates the overlay delete button on the thumbnail -->
+              </div>
+              <div class="shadowOverlay">
+                  <a id = "URLOverlay" href="" target="_blank">
+                <img id="Shadow" name="thirdOverlay"src="../icons/overlay.png" height="120" width="210"/> <!-- Creates the overlay shadow on the thumbnail -->
+                  </a>
+              </div>
+          </div>
+        </td>
+      </tr>
+    </table>
+    <div class = "cliffNotes"><!-- Bottom container for the links -->
+      <div class="GithubLink">
+        <a href = "https://github.com/ImTheTom/" target = "_blank">Github</a> <!-- Sets the hyperlink and text for the github -->
+      </div>
+      <div class = "divider">
+        |
+      </div>
+      <div class="Reset" id ="resetButton"> <!-- Sets up the reset text -->
+          Reset
+      </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+KNOWN BUGS WITHIN THE EXTENSION
+
+urls with that remember the time can be an issue.
+Checking if the page has loaded a different page is an issue.
+If you add a video to the watch later and then delete it from the watch later and then try to re add it. You can't straight away

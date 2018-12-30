@@ -1,0 +1,10 @@
+Saradomin Sword
+127
+Armadyl Crossbow
+508
+Saradomin's Light
+254
+Saradomin Hilt
+508
+Pet Zilyana
+5000

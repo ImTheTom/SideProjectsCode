@@ -1,0 +1,1 @@
+A look on how well a model can be trained to predict a landmass based on flag properties. 

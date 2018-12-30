@@ -1,0 +1,10 @@
+Bandos Chestplate
+384
+Bandos Tassets
+384
+Bandos Boots
+384
+Bandos Hilt
+508
+Pet General Graardor
+5000

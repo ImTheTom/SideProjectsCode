@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStoreApplication", "MovieStoreApplication\MovieStoreApplication.csproj", "{43F86933-87E1-480F-99F2-CC4EE7734D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL Lib", "SQL Lib\SQL Lib.csproj", "{13332FCF-94F0-4B50-8BE4-F19B35A0747C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F86933-87E1-480F-99F2-CC4EE7734D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F86933-87E1-480F-99F2-CC4EE7734D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F86933-87E1-480F-99F2-CC4EE7734D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F86933-87E1-480F-99F2-CC4EE7734D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13332FCF-94F0-4B50-8BE4-F19B35A0747C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13332FCF-94F0-4B50-8BE4-F19B35A0747C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13332FCF-94F0-4B50-8BE4-F19B35A0747C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13332FCF-94F0-4B50-8BE4-F19B35A0747C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

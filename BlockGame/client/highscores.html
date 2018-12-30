@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="client/js/socket.io-1.4.5.js"></script>
+    <script type="text/javascript" src="client/js/highscores.js"></script>
+    <link href="client/css/score.css" rel="stylesheet" type="text/css" />
+    <title>Tom Bowyer - Block Game</title>
+</head>
+<header>
+    <nav>
+        <a href='/'>Home</a>
+        <a href='singleplayer'>Single Player</a>
+        <a href='multiplayer'>Multiplayer</a>
+        <a href='highscores'>Highscores</a>
+    </nav>
+</header>
+
+<body onload="GetData()">
+    <h1>Block Game</h1>
+    <h1>Highscores</h1> Shows the latest score as well as the top 10 scores.
+    <br>
+    <p id=latest></p>
+</body>
+
+</html>

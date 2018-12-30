@@ -1,0 +1,1609 @@
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 5871. Drop Rate: 5000.
+Monster: King Black Dragon. Item: Prince Black Dragon. Killcount: 4760. Drop Rate: 3000.
+Monster: Tzkal Zuk. Item: Jal nib rek. Killcount: 4439. Drop Rate: 1000.
+Monster: Cerberus. Item: Smouldering Stone. Killcount: 2616. Drop Rate: 512.
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 768. Drop Rate: 512.
+Monster: Kreearra. Item: Armadyl Chestplate. Killcount: 1439. Drop Rate: 384.
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 1078. Drop Rate: 508.
+Monster: Tzkal Zuk. Item: Jal nib rek. Killcount: 97. Drop Rate: 1000.
+Monster: Thermonuclear Smoke Devil. Item: Acnicent Staff. Killcount: 104. Drop Rate: 129.
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 1391. Drop Rate: 5000.
+Monster: Kalphite Queen. Item: Jar of Sand. Killcount: 350. Drop Rate: 2000.
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 900. Drop Rate: 5000.
+Monster: Commander Zilyana. Item: Saradomin Hilt. Killcount: 1122. Drop Rate: 508.
+Monster: Obor. Item: Hill Giant Club. Killcount: 2. Drop Rate: 118.
+Monster: Skotizo. Item: Jar Of Darkness. Killcount: 888. Drop Rate: 2500.
+Monster: Kalphite Queen. Item: Dragon Chainbody. Killcount: 606. Drop Rate: 128.
+Monster: Lesser Demon. Item: Dark Totem Top. Killcount: 40. Drop Rate: 413.
+Monster: Kraken. Item: Pet Kraken. Killcount: 8235. Drop Rate: 3000.
+Monster: Commander Zilyana. Item: Pet Zilyana. Killcount: 339. Drop Rate: 5000.
+Monster: Thermonuclear Smoke Devil. Item: Acnicent Staff. Killcount: 7. Drop Rate: 129.
+Monster: Skotizo. Item: Jar Of Darkness. Killcount: 584. Drop Rate: 2500.
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 22. Drop Rate: 508.
+Monster: Jad. Item: Tzerk jad. Killcount: 41. Drop Rate: 200.
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 1520. Drop Rate: 5000.
+Monster: Jad. Item: Tzerk jad. Killcount: 154. Drop Rate: 200.
+Monster: Zulrah. Item: Pet Snakeling. Killcount: 1305. Drop Rate: 4000.
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 7. Drop Rate: 275.
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 193. Drop Rate: 512.
+Monster: Skotizo. Item: Uncut Onyx. Killcount: 911. Drop Rate: 1000.
+Monster: Scorpia. Item: Dragon Scimitar. Killcount: 9. Drop Rate: 128.
+Monster: Wintertodt. Item: Pyromancer Robe. Killcount: 84. Drop Rate: 150.
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 4438. Drop Rate: 2000.
+Monster: Cerberus. Item: Pegasian Crystal. Killcount: 110. Drop Rate: 512.
+Monster: Commander Zilyana. Item: Pet Zilyana. Killcount: 2930. Drop Rate: 5000.
+Monster: Wintertodt. Item: Pyromancer Garb. Killcount: 549. Drop Rate: 150.
+Monster: Black Demon. Item: Dark TOtem Top . Killcount: 232. Drop Rate: 340.
+Monster: Dagannoth Rex. Item: Warrior Ring. Killcount: 623. Drop Rate: 128.
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 11329. Drop Rate: 5000.
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 694. Drop Rate: 384.
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 860. Drop Rate: 1000.
+Monster: Skotizo. Item: Uncut Onyx. Killcount: 4780. Drop Rate: 1000.
+Monster: Dagannoth Rex. Item: Berserker Ring. Killcount: 116. Drop Rate: 128.
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 234. Drop Rate: 256.
+Monster: Corporeal Beast. Item: Spectral Sigil. Killcount: 1820. Drop Rate: 1365.
+Monster: Giant Mole. Item: Baby Mole. Killcount: 570. Drop Rate: 3000.
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 175. Drop Rate: 300.
+Monster: Obor. Item: Hill Giant Club. Killcount: 37. Drop Rate: 118.
+Monster: Wintertodt. Item: Bruma Torch. Killcount: 137. Drop Rate: 150.
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 29. Drop Rate: 300.
+Monster: Skotizo. Item: Dark Claw. Killcount: 27. Drop Rate: 25.
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 2503. Drop Rate: 2000.
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 767. Drop Rate: 384.
+Monster: Skotizo. Item: Skotos. Killcount: 39. Drop Rate: 65.
+Monster: Tzkal Zuk. Item: Jal nib rek. Killcount: 4904. Drop Rate: 1000.
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 3508. Drop Rate: 1000.
+Monster: Skotizo. Item: Jar Of Darkness. Killcount: 1632. Drop Rate: 2500.
+Monster: Chaos Fanatic. Item: Ancient Staff. Killcount: 21. Drop Rate: 128.
+Monster: Thermonuclear Smoke Devil. Item: Smoke Battlestaff. Killcount: 267. Drop Rate: 512.
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 873. Drop Rate: 512.
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 375. Drop Rate: 2000.
+Monster: Scorpia. Item: "Scorpias Offspring". Killcount: 6717. Drop Rate: 2000.
+Monster: Kalphite Queen. Item: Jar of Sand. Killcount: 650. Drop Rate: 2000.
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 225. Drop Rate: 512.
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 813. Drop Rate: 1000.
+Monster: Kalphite Queen. Item: Jar of Sand. Killcount: 1797. Drop Rate: 2000.
+Monster: Black Demon. Item: Dark TOtem Top . Killcount: 486. Drop Rate: 340.
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 45. Drop Rate: 1000.
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 157. Drop Rate: 300.
+Monster: Chaos Fanatic. Item: Ancient Staff. Killcount: 43. Drop Rate: 128.
+Monster: Obor. Item: Hill Giant Club. Killcount: 140. Drop Rate: 118.
+Monster: Skotizo. Item: Dark Claw. Killcount: 9. Drop Rate: 25.
+Monster: Giant Mole. Item: Baby Mole. Killcount: 1811. Drop Rate: 3000.
+Monster: Scorpia. Item: Malediction Shard 3. Killcount: 343. Drop Rate: 256.
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 243. Drop Rate: 128.
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 17. Drop Rate: 256.
+Monster: Zulrah. Item: Tanzanite Mutagen. Killcount: 10195. Drop Rate: 6554.
+Monster: Corporeal Beast. Item: Elysian Sigil. Killcount: 3868. Drop Rate: 4095.
+Monster: Thermonuclear Smoke Devil. Item: Dragon Chainbody. Killcount: 3832. Drop Rate: 2000.
+Monster: Cerberus. Item: Jar of Souls. Killcount: 687. Drop Rate: 2000.
+Monster: King Black Dragon. Item: Prince Black Dragon. Killcount: 59. Drop Rate: 3000.
+Monster: Wintertodt. Item: Warm Gloves. Killcount: 26. Drop Rate: 150.
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 107. Drop Rate: 512.
+Monster: Commander Zilyana. Item: Saradomin Sword. Killcount: 34. Drop Rate: 127.
+Monster: Dagannoth Prime. Item: Pet Dagannoth Prime. Killcount: 12096. Drop Rate: 5000.
+Monster: Corporeal Beast. Item: Pet Dark Core. Killcount: 3389. Drop Rate: 5000.
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 736. Drop Rate: 1365.
+Monster: Callisto. Item: Callisto Cub. Killcount: 1708. Drop Rate: 2000.
+Monster: Corporeal Beast. Item: Pet Dark Core. Killcount: 208. Drop Rate: 5000.
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 56. Drop Rate: 128.
+Monster: Jad. Item: Tzerk jad. Killcount: 597. Drop Rate: 200.
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 992. Drop Rate: 512.
+Monster: Tzkal Zuk. Item: Jal nib rek. Killcount: 1850. Drop Rate: 1000.
+Monster: Thermonuclear Smoke Devil. Item: Pet Smoke Devil. Killcount: 3847. Drop Rate: 3000.
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 200. Drop Rate: 512.
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 529. Drop Rate: 256.
+Monster: Kreearra. Item: Armadyl Helmet. Killcount: 469. Drop Rate: 384.
+Monster: Skotizo. Item: Dark Claw. Killcount: 62. Drop Rate: 25.
+Monster: Giant Mole. Item: Baby Mole. Killcount: 201. Drop Rate: 3000.
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 712. Drop Rate: 300.
+Monster: Cerberus. Item: Primordial Crystal. Killcount: 112. Drop Rate: 512.
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 21140. Drop Rate: 5000.
+Monster: Kraken. Item: Trident Of The Seas. Killcount: 314. Drop Rate: 512.
+Monster: Abyssal Sire. Item: Unsired. Killcount: 431. Drop Rate: 100.
+Monster: Kril Tsutasroth. Item: Steam Battlestaff. Killcount: 23. Drop Rate: 128.
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 297. Drop Rate: 340.
+Monster: Zulrah. Item: Serpentine Visage. Killcount: 15. Drop Rate: 512.
+Monster: Commander Zilyana. Item: Saradomin Hilt. Killcount: 627. Drop Rate: 508.
+Monster: Lesser Demon. Item: Lesser Demon Champion Scroll. Killcount: 2695. Drop Rate: 5000.
+Monster: Lesser Demon. Item: Darm Totem Middle. Killcount: 650. Drop Rate: 413.
+Monster: Cerberus. Item: Smouldering Stone. Killcount: 365. Drop Rate: 512.
+Monster: Cerberus. Item: Smouldering Stone. Killcount: 267. Drop Rate: 512.
+Monster: Giant Mole. Item: Baby Mole. Killcount: 6206. Drop Rate: 3000.
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 3438. Drop Rate: 5000.
+Monster: Cerberus. Item: Pegasian Crystal. Killcount: 905. Drop Rate: 512.
+Monster: Tzkal Zuk. Item: Jal nib rek. Killcount: 794. Drop Rate: 1000.
+Monster: Tzkal Zuk. Item: Jal nib rek. Killcount: 3835. Drop Rate: 1000.
+Monster: Dagannoth Rex. Item: Warrior Ring. Killcount: 168. Drop Rate: 128.
+Monster: Kril Tsutasroth. Item: Pet Kril Tsutsaroth. Killcount: 694. Drop Rate: 5000.
+Monster: Wintertodt. Item: Bruma Torch. Killcount: 327. Drop Rate: 150.
+Monster: Tzkal Zuk. Item: Jal nib rek. Killcount: 1395. Drop Rate: 1000.
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 138. Drop Rate: 256.
+Monster: Lesser Demon. Item: Dark Totem Top. Killcount: 424. Drop Rate: 413.
+Monster: Dagannoth Rex. Item: Berserker Ring. Killcount: 49. Drop Rate: 128.
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 609. Drop Rate: 1000.
+Monster: Abyssal Sire. Item: Unsired. Killcount: 118. Drop Rate: 100.
+Monster: Cerberus. Item: Jar of Souls. Killcount: 276. Drop Rate: 2000.
+Monster: Zulrah. Item: Uncut Onyx. Killcount: 425. Drop Rate: 512.
+Monster: Wintertodt. Item: Phoenix. Killcount: 6277. Drop Rate: 5000.
+Monster: Black Demon. Item: Dark Totem Middle. Killcount: 66. Drop Rate: 340.
+Monster: Wintertodt. Item: Phoenix. Killcount: 4064. Drop Rate: 5000.
+Monster: Thermonuclear Smoke Devil. Item: Acnicent Staff. Killcount: 206. Drop Rate: 129.
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 398. Drop Rate: 300.
+Monster: Zulrah. Item: Jar of Swamp. Killcount: 1346. Drop Rate: 3000.
+Monster: Abyssal Sire. Item: Unsired. Killcount: 84. Drop Rate: 100.
+Monster: Scorpia. Item: Malediction Shard 3. Killcount: 277. Drop Rate: 256.
+Monster: Giant Mole. Item: Baby Mole. Killcount: 831. Drop Rate: 3000.
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 144. Drop Rate: 300.
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 882. Drop Rate: 1500.
+Monster: Dagannoth Prime. Item: Pet Dagannoth Prime. Killcount: 4122. Drop Rate: 5000.
+Monster: Thermonuclear Smoke Devil. Item: Pet Smoke Devil. Killcount: 2297. Drop Rate: 3000.
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 681. Drop Rate: 512.
+Monster: Obor. Item: Hill Giant Club. Killcount: 78. Drop Rate: 118.
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 594. Drop Rate: 512.
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 7196. Drop Rate: 5000.
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 47. Drop Rate: 256.
+Monster: Skotizo. Item: Jar Of Darkness. Killcount: 1728. Drop Rate: 2500.
+Monster: Giant Mole. Item: Baby Mole. Killcount: 448. Drop Rate: 3000.
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 1629. Drop Rate: 512.
+Monster: Giant Mole. Item: Baby Mole. Killcount: 1930. Drop Rate: 3000.
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 1131. Drop Rate: 1365.
+Monster: Jad. Item: Tzerk jad. Killcount: 676. Drop Rate: 200.
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 590. Drop Rate: 256.
+Monster: Kril Tsutasroth. Item: Pet Kril Tsutsaroth. Killcount: 251. Drop Rate: 5000.
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 630. Drop Rate: 256.
+Monster: Giant Mole. Item: Baby Mole. Killcount: 528. Drop Rate: 3000.
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 530. Drop Rate: 512.
+Monster: Lesser Demon. Item: Dark Totem Top. Killcount: 82. Drop Rate: 413.
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 82. Drop Rate: 128.
+Monster: Black Demon. Item: Ancient Shard. Killcount: 31. Drop Rate: 226.
+Monster: Kreearra. Item: Armadyl Chestplate. Killcount: 635. Drop Rate: 384.
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 42. Drop Rate: 128.
+Monster: Skotizo. Item: Dark Claw. Killcount: 12. Drop Rate: 25.
+Monster: Kril Tsutasroth. Item: Zamorakian Spear. Killcount: 244. Drop Rate: 128.
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 11. Drop Rate: 128.
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 349. Drop Rate: 384.
+Monster: General Graardor. Item: Bandos Tassets. Killcount: 1443. Drop Rate: 384.
+Monster: Dagannoth Rex. Item: Warrior Ring. Killcount: 113. Drop Rate: 128.
+Monster: Callisto. Item: Callisto Cub. Killcount: 398. Drop Rate: 2000.
+Monster: Abyssal Sire. Item: Unsired. Killcount: 4. Drop Rate: 100.
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 5067. Drop Rate: 5000.
+Monster: Callisto. Item: Callisto Cub. Killcount: 472. Drop Rate: 2000.
+Monster: Scorpia. Item: Dragon Scimitar. Killcount: 108. Drop Rate: 128.
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 53. Drop Rate: 128.
+Monster: Zulrah. Item: Magic Fang. Killcount: 418. Drop Rate: 512.
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 3736. Drop Rate: 5000.
+Monster: Zulrah. Item: Jar of Swamp. Killcount: 93. Drop Rate: 3000.
+Monster: Commander Zilyana. Item: Pet Zilyana. Killcount: 295. Drop Rate: 5000.
+Monster: Abyssal Sire. Item: Unsired. Killcount: 145. Drop Rate: 100.
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 621. Drop Rate: 300.
+Monster: Giant Mole. Item: Baby Mole. Killcount: 249. Drop Rate: 3000.
+Monster: Commander Zilyana. Item: "Saradomins Light". Killcount: 101. Drop Rate: 254.
+Monster: Kreearra. Item: Armadyl Chainskirt. Killcount: 1023. Drop Rate: 384.
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 3424. Drop Rate: 5000.
+Monster: Vetion. Item: Vetion jr. Killcount: 494. Drop Rate: 2000.
+Monster: General Graardor. Item: Bandos Boots. Killcount: 377. Drop Rate: 384.
+Monster: Obor. Item: Hill Giant Club. Killcount: 41. Drop Rate: 118.
+Monster: Skotizo. Item: Dark Claw. Killcount: 51. Drop Rate: 25.
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 2040. Drop Rate: 2000.
+Monster: Jad. Item: Tzerk jad. Killcount: 45. Drop Rate: 200.
+Monster: Abyssal Sire. Item: Unsired. Killcount: 118. Drop Rate: 100.
+Monster: Abyssal Sire. Item: Unsired. Killcount: 207. Drop Rate: 100.
+Monster: Lesser Demon. Item: Dark Totem Top. Killcount: 128. Drop Rate: 413.
+Monster: Corporeal Beast. Item: Holy Elixir. Killcount: 794. Drop Rate: 171.
+Monster: Cerberus. Item: Jar of Souls. Killcount: 1579. Drop Rate: 2000.
+Monster: General Graardor. Item: Bandos Boots. Killcount: 352. Drop Rate: 384.
+Monster: Jad. Item: Tzerk jad. Killcount: 2. Drop Rate: 200.
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 375. Drop Rate: 5000.
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 9007. Drop Rate: 5000.
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 47. Drop Rate: 512.
+
+Monster: Corporeal Beast. Item: Elysian Sigil. Killcount: 479. Drop Rate: 4095.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 207. Drop Rate: 118.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 1497. Drop Rate: 3000.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 2304. Drop Rate: 5000.
+
+Monster: Black Demon. Item: Ancient Shard. Killcount: 143. Drop Rate: 226.
+
+Monster: Commander Zilyana. Item: Saradomin Hilt. Killcount: 63. Drop Rate: 508.
+
+Monster: Corporeal Beast. Item: Spectral Sigil. Killcount: 27. Drop Rate: 1365.
+
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 1752. Drop Rate: 5000.
+
+Monster: Kril Tsutasroth. Item: Staff of Dead. Killcount: 735. Drop Rate: 508.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 680. Drop Rate: 2000.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 80. Drop Rate: 100.
+
+Monster: Dagannoth Rex. Item: Berserker Ring. Killcount: 47. Drop Rate: 128.
+
+Monster: Black Demon. Item: Dark Totem Middle. Killcount: 168. Drop Rate: 340.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 47. Drop Rate: 100.
+
+Monster: Kraken. Item: Jar Of Dirt. Killcount: 1159. Drop Rate: 1000.
+
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 147. Drop Rate: 384.
+
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 5818. Drop Rate: 5000.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 1571. Drop Rate: 3000.
+
+Monster: Thermonuclear Smoke Devil. Item: Pet Smoke Devil. Killcount: 2842. Drop Rate: 3000.
+
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 1221. Drop Rate: 256.
+
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 53. Drop Rate: 128.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 558. Drop Rate: 275.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 8693. Drop Rate: 2000.
+
+Monster: Black Demon. Item: Ancient Shard. Killcount: 175. Drop Rate: 226.
+
+Monster: Kril Tsutasroth. Item: Steam Battlestaff. Killcount: 95. Drop Rate: 128.
+
+Monster: Kril Tsutasroth. Item: Zamorakian Spear. Killcount: 32. Drop Rate: 128.
+
+Monster: Scorpia. Item: "Scorpias Offspring". Killcount: 2594. Drop Rate: 2000.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 86. Drop Rate: 512.
+
+Monster: Kalphite Queen. Item: Kalphite Princess. Killcount: 1882. Drop Rate: 3000.
+
+Monster: Zulrah. Item: Magma Mutagen. Killcount: 10362. Drop Rate: 6554.
+
+Monster: Commander Zilyana. Item: Pet Zilyana. Killcount: 3571. Drop Rate: 5000.
+
+Monster: Lesser Demon. Item: Darm Totem Middle. Killcount: 89. Drop Rate: 413.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 9161. Drop Rate: 5000.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 737. Drop Rate: 2000.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 122. Drop Rate: 100.
+
+Monster: Commander Zilyana. Item: Saradomin Sword. Killcount: 43. Drop Rate: 127.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 33. Drop Rate: 200.
+
+Monster: Commander Zilyana. Item: Saradomin Sword. Killcount: 279. Drop Rate: 127.
+
+Monster: Cerberus. Item: Hellpuppy. Killcount: 4195. Drop Rate: 3000.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 34. Drop Rate: 100.
+
+Monster: Commander Zilyana. Item: Saradomin Sword. Killcount: 231. Drop Rate: 127.
+
+Monster: Skotizo. Item: Uncut Onyx. Killcount: 248. Drop Rate: 1000.
+
+Monster: General Graardor. Item: Bandos Tassets. Killcount: 1192. Drop Rate: 384.
+
+Monster: Zulrah. Item: Tanzanite Fang. Killcount: 666. Drop Rate: 512.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 1469. Drop Rate: 512.
+
+Monster: Zulrah. Item: Tanzanite Mutagen. Killcount: 2734. Drop Rate: 6554.
+
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 251. Drop Rate: 340.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 1083. Drop Rate: 5000.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 1751. Drop Rate: 1500.
+
+Monster: Corporeal Beast. Item: Holy Elixir. Killcount: 343. Drop Rate: 171.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 31. Drop Rate: 128.
+
+Monster: Commander Zilyana. Item: Saradomin Hilt. Killcount: 2536. Drop Rate: 508.
+
+Monster: Skotizo. Item: Dark Claw. Killcount: 7. Drop Rate: 25.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 2191. Drop Rate: 2000.
+
+Monster: Kril Tsutasroth. Item: Staff of Dead. Killcount: 934. Drop Rate: 508.
+
+Monster: Kreearra. Item: Pet Kreearra. Killcount: 2197. Drop Rate: 5000.
+
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 408. Drop Rate: 340.
+
+Monster: Kraken. Item: Jar Of Dirt. Killcount: 1303. Drop Rate: 1000.
+
+Monster: Kalphite Queen. Item: Kalphite Princess. Killcount: 4410. Drop Rate: 3000.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 3413. Drop Rate: 3000.
+
+Monster: Vetion. Item: Vetion jr. Killcount: 1884. Drop Rate: 2000.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 1125. Drop Rate: 3000.
+
+Monster: Dagannoth Prime. Item: Pet Dagannoth Prime. Killcount: 1011. Drop Rate: 5000.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 74. Drop Rate: 512.
+
+Monster: Vetion. Item: Vetion jr. Killcount: 1500. Drop Rate: 2000.
+
+Monster: Lesser Demon. Item: Lesser Demon Champion Scroll. Killcount: 1489. Drop Rate: 5000.
+
+Monster: Black Demon. Item: Ancient Shard. Killcount: 102. Drop Rate: 226.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 636. Drop Rate: 1500.
+
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 1596. Drop Rate: 1000.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 1345. Drop Rate: 3000.
+
+Monster: Kraken. Item: Trident Of The Seas. Killcount: 197. Drop Rate: 512.
+
+Monster: Kril Tsutasroth. Item: Zamorakian Spear. Killcount: 69. Drop Rate: 128.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 1418. Drop Rate: 1500.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 24. Drop Rate: 118.
+
+Monster: Zulrah. Item: Serpentine Visage. Killcount: 860. Drop Rate: 512.
+
+Monster: Wintertodt. Item: Bruma Torch. Killcount: 182. Drop Rate: 150.
+
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 607. Drop Rate: 1365.
+
+Monster: Corporeal Beast. Item: Elysian Sigil. Killcount: 293. Drop Rate: 4095.
+
+Monster: Black Demon. Item: Ancient Shard. Killcount: 12. Drop Rate: 226.
+
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 318. Drop Rate: 128.
+
+Monster: Commander Zilyana. Item: Pet Zilyana. Killcount: 13612. Drop Rate: 5000.
+
+Monster: Skotizo. Item: Uncut Onyx. Killcount: 652. Drop Rate: 1000.
+
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 9789. Drop Rate: 5000.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 8634. Drop Rate: 5000.
+
+Monster: Thermonuclear Smoke Devil. Item: Smoke Battlestaff. Killcount: 369. Drop Rate: 512.
+
+Monster: Wintertodt. Item: Bruma Torch. Killcount: 266. Drop Rate: 150.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 190. Drop Rate: 100.
+
+Monster: Wintertodt. Item: Pyromancer Boots. Killcount: 108. Drop Rate: 150.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 244. Drop Rate: 118.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 663. Drop Rate: 1500.
+
+Monster: Kraken. Item: Trident Of The Seas. Killcount: 138. Drop Rate: 512.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 107. Drop Rate: 200.
+
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 95. Drop Rate: 256.
+
+Monster: Scorpia. Item: "Scorpias Offspring". Killcount: 2544. Drop Rate: 2000.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 3310. Drop Rate: 5000.
+
+Monster: Scorpia. Item: Dragon Scimitar. Killcount: 171. Drop Rate: 128.
+
+Monster: Kalphite Queen. Item: Jar of Sand. Killcount: 9438. Drop Rate: 2000.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 3365. Drop Rate: 5000.
+
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 14475. Drop Rate: 5000.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 171. Drop Rate: 512.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 12398. Drop Rate: 5000.
+
+Monster: Dagannoth Rex. Item: Warrior Ring. Killcount: 138. Drop Rate: 128.
+
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 23. Drop Rate: 508.
+
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 81. Drop Rate: 300.
+
+Monster: Dagannoth Prime. Item: Pet Dagannoth Prime. Killcount: 10526. Drop Rate: 5000.
+
+Monster: Zulrah. Item: Tanzanite Fang. Killcount: 660. Drop Rate: 512.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 208. Drop Rate: 512.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 199. Drop Rate: 275.
+
+Monster: Thermonuclear Smoke Devil. Item: Smoke Battlestaff. Killcount: 576. Drop Rate: 512.
+
+Monster: Lesser Demon. Item: Dark Totem Top. Killcount: 9. Drop Rate: 413.
+
+Monster: Dagannoth Rex. Item: Warrior Ring. Killcount: 89. Drop Rate: 128.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 41. Drop Rate: 100.
+
+Monster: Cerberus. Item: Smouldering Stone. Killcount: 1793. Drop Rate: 512.
+
+Monster: Kalphite Queen. Item: Jar of Sand. Killcount: 515. Drop Rate: 2000.
+
+Monster: General Graardor. Item: Bandos Boots. Killcount: 391. Drop Rate: 384.
+
+Monster: Kreearra. Item: Armadyl Hilt. Killcount: 695. Drop Rate: 508.
+
+Monster: Skotizo. Item: Dark Claw. Killcount: 3. Drop Rate: 25.
+
+Monster: Zulrah. Item: Pet Snakeling. Killcount: 5596. Drop Rate: 4000.
+
+Monster: Commander Zilyana. Item: Saradomin Sword. Killcount: 17. Drop Rate: 127.
+
+Monster: Zulrah. Item: Serpentine Visage. Killcount: 3602. Drop Rate: 512.
+
+Monster: Chaos Fanatic. Item: Malediction Shard 1. Killcount: 346. Drop Rate: 256.
+
+Monster: Kril Tsutasroth. Item: Zamorak Hilt. Killcount: 100. Drop Rate: 508.
+
+Monster: Wintertodt. Item: Warm Gloves. Killcount: 170. Drop Rate: 150.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 955. Drop Rate: 512.
+
+Monster: Zulrah. Item: Uncut Onyx. Killcount: 537. Drop Rate: 512.
+
+Monster: Wintertodt. Item: Dragon Axe. Killcount: 40648. Drop Rate: 10000.
+
+Monster: Lesser Demon. Item: Darm Totem Middle. Killcount: 228. Drop Rate: 413.
+
+Monster: Commander Zilyana. Item: Saradomin Hilt. Killcount: 747. Drop Rate: 508.
+
+Monster: Dagannoth Rex. Item: Warrior Ring. Killcount: 111. Drop Rate: 128.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 39. Drop Rate: 200.
+
+Monster: Dagannoth Prime. Item: Pet Dagannoth Prime. Killcount: 9458. Drop Rate: 5000.
+
+Monster: Chaos Fanatic. Item: Ancient Staff. Killcount: 404. Drop Rate: 128.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 320. Drop Rate: 200.
+
+Monster: Zulrah. Item: Magic Fang. Killcount: 1024. Drop Rate: 512.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 2100. Drop Rate: 2000.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 464. Drop Rate: 128.
+
+Monster: Commander Zilyana. Item: "Saradomins Light". Killcount: 470. Drop Rate: 254.
+
+Monster: Thermonuclear Smoke Devil. Item: Dragon Chainbody. Killcount: 258. Drop Rate: 2000.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 2540. Drop Rate: 5000.
+
+Monster: Chaos Fanatic. Item: Malediction Shard 1. Killcount: 165. Drop Rate: 256.
+
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 7. Drop Rate: 128.
+
+Monster: Zulrah. Item: Uncut Onyx. Killcount: 161. Drop Rate: 512.
+
+Monster: Cerberus. Item: Hellpuppy. Killcount: 1247. Drop Rate: 3000.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 61. Drop Rate: 100.
+
+Monster: Wintertodt. Item: Bruma Torch. Killcount: 42. Drop Rate: 150.
+
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 708. Drop Rate: 256.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 227. Drop Rate: 512.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 6732. Drop Rate: 5000.
+
+Monster: Commander Zilyana. Item: Armadyl Crossbow. Killcount: 154. Drop Rate: 508.
+
+Monster: Chaos Fanatic. Item: Ancient Staff. Killcount: 303. Drop Rate: 128.
+
+Monster: General Graardor. Item: Bandos Tassets. Killcount: 11. Drop Rate: 384.
+
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 28. Drop Rate: 256.
+
+Monster: Thermonuclear Smoke Devil. Item: Acnicent Staff. Killcount: 152. Drop Rate: 129.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 6. Drop Rate: 1500.
+
+Monster: Kreearra. Item: Armadyl Chainskirt. Killcount: 453. Drop Rate: 384.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 384. Drop Rate: 200.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 145. Drop Rate: 512.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 197. Drop Rate: 100.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 481. Drop Rate: 512.
+
+Monster: Kreearra. Item: Armadyl Hilt. Killcount: 342. Drop Rate: 508.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 1297. Drop Rate: 3000.
+
+Monster: Vetion. Item: Vetion jr. Killcount: 1486. Drop Rate: 2000.
+
+Monster: General Graardor. Item: Bandos Boots. Killcount: 144. Drop Rate: 384.
+
+Monster: Dagannoth Rex. Item: Berserker Ring. Killcount: 140. Drop Rate: 128.
+
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 173. Drop Rate: 508.
+
+Monster: Wintertodt. Item: Pyromancer Hood. Killcount: 16. Drop Rate: 150.
+
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 123. Drop Rate: 128.
+
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 117. Drop Rate: 256.
+
+Monster: Corporeal Beast. Item: Pet Dark Core. Killcount: 2048. Drop Rate: 5000.
+
+Monster: Scorpia. Item: "Scorpias Offspring". Killcount: 1728. Drop Rate: 2000.
+
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 1247. Drop Rate: 1365.
+
+Monster: Kril Tsutasroth. Item: Steam Battlestaff. Killcount: 227. Drop Rate: 128.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 11645. Drop Rate: 5000.
+
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 4503. Drop Rate: 5000.
+
+Monster: Commander Zilyana. Item: "Saradomins Light". Killcount: 57. Drop Rate: 254.
+
+Monster: Skotizo. Item: Dark Claw. Killcount: 31. Drop Rate: 25.
+
+Monster: Lesser Demon. Item: Darm Totem Middle. Killcount: 298. Drop Rate: 413.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 116. Drop Rate: 100.
+
+Monster: Zulrah. Item: Magma Mutagen. Killcount: 5376. Drop Rate: 6554.
+
+Monster: Kalphite Queen. Item: Jar of Sand. Killcount: 313. Drop Rate: 2000.
+
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 64. Drop Rate: 340.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 2791. Drop Rate: 5000.
+
+Monster: Corporeal Beast. Item: Pet Dark Core. Killcount: 413. Drop Rate: 5000.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 120. Drop Rate: 512.
+
+Monster: Corporeal Beast. Item: Elysian Sigil. Killcount: 8748. Drop Rate: 4095.
+
+Monster: Lesser Demon. Item: Darm Totem Middle. Killcount: 86. Drop Rate: 413.
+
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 752. Drop Rate: 256.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 791. Drop Rate: 512.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 110. Drop Rate: 275.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 366. Drop Rate: 512.
+
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 97. Drop Rate: 300.
+
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 74. Drop Rate: 384.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 1426. Drop Rate: 5000.
+
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 9. Drop Rate: 128.
+
+Monster: Kraken. Item: Trident Of The Seas. Killcount: 577. Drop Rate: 512.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 613. Drop Rate: 512.
+
+Monster: Skotizo. Item: Uncut Onyx. Killcount: 1705. Drop Rate: 1000.
+
+Monster: Zulrah. Item: Tanzanite Mutagen. Killcount: 7903. Drop Rate: 6554.
+
+Monster: Corporeal Beast. Item: Holy Elixir. Killcount: 88. Drop Rate: 171.
+
+Monster: Zulrah. Item: Jar of Swamp. Killcount: 1576. Drop Rate: 3000.
+
+Monster: Dagannoth Rex. Item: Berserker Ring. Killcount: 100. Drop Rate: 128.
+
+Monster: Cerberus. Item: Pegasian Crystal. Killcount: 769. Drop Rate: 512.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 2729. Drop Rate: 5000.
+
+Monster: Zulrah. Item: Tanzanite Mutagen. Killcount: 12251. Drop Rate: 6554.
+
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 653. Drop Rate: 340.
+
+Monster: Lesser Demon. Item: Darm Totem Middle. Killcount: 413. Drop Rate: 413.
+
+Monster: Scorpia. Item: Malediction Shard 3. Killcount: 538. Drop Rate: 256.
+
+Monster: Kril Tsutasroth. Item: Zamorakian Spear. Killcount: 60. Drop Rate: 128.
+
+Monster: Skotizo. Item: Uncut Onyx. Killcount: 271. Drop Rate: 1000.
+
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 1458. Drop Rate: 300.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 3871. Drop Rate: 2000.
+
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 3977. Drop Rate: 1000.
+
+Monster: Zulrah. Item: Uncut Onyx. Killcount: 521. Drop Rate: 512.
+
+Monster: Scorpia. Item: Dragon Scimitar. Killcount: 73. Drop Rate: 128.
+
+Monster: Vetion. Item: Vetion jr. Killcount: 496. Drop Rate: 2000.
+
+Monster: Scorpia. Item: Dragon Scimitar. Killcount: 41. Drop Rate: 128.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 154. Drop Rate: 100.
+
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 463. Drop Rate: 300.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 44. Drop Rate: 200.
+
+Monster: Black Demon. Item: Dark TOtem Top . Killcount: 327. Drop Rate: 340.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 204. Drop Rate: 512.
+
+Monster: Kreearra. Item: Armadyl Helmet. Killcount: 29. Drop Rate: 384.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 80. Drop Rate: 275.
+
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 5. Drop Rate: 256.
+
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 8113. Drop Rate: 5000.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 165. Drop Rate: 512.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 1744. Drop Rate: 512.
+
+Monster: Wintertodt. Item: Phoenix. Killcount: 8090. Drop Rate: 5000.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 138. Drop Rate: 118.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 2425. Drop Rate: 5000.
+
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 349. Drop Rate: 384.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 4199. Drop Rate: 2000.
+
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 1150. Drop Rate: 1000.
+
+Monster: Chaos Fanatic. Item: Malediction Shard 1. Killcount: 762. Drop Rate: 256.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 315. Drop Rate: 512.
+
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 21. Drop Rate: 384.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 1147. Drop Rate: 512.
+
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 354. Drop Rate: 256.
+
+Monster: Kraken. Item: Pet Kraken. Killcount: 3462. Drop Rate: 3000.
+
+Monster: Kraken. Item: Trident Of The Seas. Killcount: 902. Drop Rate: 512.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 409. Drop Rate: 1000.
+
+Monster: King Black Dragon. Item: Prince Black Dragon. Killcount: 1142. Drop Rate: 3000.
+
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 1. Drop Rate: 300.
+
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 598. Drop Rate: 1000.
+
+Monster: Dagannoth Prime. Item: Pet Dagannoth Prime. Killcount: 6544. Drop Rate: 5000.
+
+Monster: Wintertodt. Item: Pyromancer Robe. Killcount: 151. Drop Rate: 150.
+
+Monster: Skotizo. Item: Jar Of Darkness. Killcount: 356. Drop Rate: 2500.
+
+Monster: Scorpia. Item: Malediction Shard 3. Killcount: 139. Drop Rate: 256.
+
+Monster: Thermonuclear Smoke Devil. Item: Smoke Battlestaff. Killcount: 2423. Drop Rate: 512.
+
+Monster: Kalphite Queen. Item: Kalphite Princess. Killcount: 172. Drop Rate: 3000.
+
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 500. Drop Rate: 128.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 5139. Drop Rate: 1500.
+
+Monster: General Graardor. Item: Bandos Boots. Killcount: 967. Drop Rate: 384.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 28. Drop Rate: 512.
+
+Monster: Cerberus. Item: Pegasian Crystal. Killcount: 431. Drop Rate: 512.
+
+Monster: Cerberus. Item: Jar of Souls. Killcount: 661. Drop Rate: 2000.
+
+Monster: Wintertodt. Item: Pyromancer Boots. Killcount: 14. Drop Rate: 150.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 148. Drop Rate: 118.
+
+Monster: Wintertodt. Item: Bruma Torch. Killcount: 385. Drop Rate: 150.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 1052. Drop Rate: 512.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 6918. Drop Rate: 2000.
+
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 928. Drop Rate: 508.
+
+Monster: Kreearra. Item: Pet Kreearra. Killcount: 8100. Drop Rate: 5000.
+
+Monster: Kril Tsutasroth. Item: Zamorakian Spear. Killcount: 28. Drop Rate: 128.
+
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 129. Drop Rate: 128.
+
+Monster: Lesser Demon. Item: Dark Totem Base. Killcount: 501. Drop Rate: 413.
+
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 87. Drop Rate: 340.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 11144. Drop Rate: 5000.
+
+Monster: Black Demon. Item: Ancient Shard. Killcount: 7. Drop Rate: 226.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 58. Drop Rate: 128.
+
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 8643. Drop Rate: 5000.
+
+Monster: Kreearra. Item: Armadyl Chainskirt. Killcount: 706. Drop Rate: 384.
+
+Monster: Zulrah. Item: Uncut Onyx. Killcount: 244. Drop Rate: 512.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 86. Drop Rate: 118.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 52. Drop Rate: 100.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 314. Drop Rate: 200.
+
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 39. Drop Rate: 384.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 314. Drop Rate: 3000.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 433. Drop Rate: 512.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 117. Drop Rate: 118.
+
+Monster: Kreearra. Item: Pet Kreearra. Killcount: 1224. Drop Rate: 5000.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 1726. Drop Rate: 512.
+
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 245. Drop Rate: 128.
+
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 81. Drop Rate: 300.
+
+Monster: Kalphite Queen. Item: Kalphite Princess. Killcount: 2120. Drop Rate: 3000.
+
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 324. Drop Rate: 256.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 715. Drop Rate: 512.
+
+Monster: Black Demon. Item: Ancient Shard. Killcount: 250. Drop Rate: 226.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 222. Drop Rate: 200.
+
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 54. Drop Rate: 256.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 2404. Drop Rate: 2000.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 2603. Drop Rate: 2000.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 1951. Drop Rate: 5000.
+
+Monster: Kril Tsutasroth. Item: Steam Battlestaff. Killcount: 208. Drop Rate: 128.
+
+Monster: Cerberus. Item: Jar of Souls. Killcount: 1617. Drop Rate: 2000.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 162. Drop Rate: 118.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 177. Drop Rate: 200.
+
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 3641. Drop Rate: 1365.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 422. Drop Rate: 2000.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 217. Drop Rate: 512.
+
+Monster: Cerberus. Item: Primordial Crystal. Killcount: 71. Drop Rate: 512.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 67. Drop Rate: 512.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 5972. Drop Rate: 5000.
+
+Monster: Wintertodt. Item: Phoenix. Killcount: 782. Drop Rate: 5000.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 358. Drop Rate: 512.
+
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 443. Drop Rate: 256.
+
+Monster: Kraken. Item: Pet Kraken. Killcount: 1038. Drop Rate: 3000.
+
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 62. Drop Rate: 300.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 126. Drop Rate: 128.
+
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 1382. Drop Rate: 5000.
+
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 416. Drop Rate: 508.
+
+Monster: Dagannoth Rex. Item: Berserker Ring. Killcount: 171. Drop Rate: 128.
+
+Monster: Skotizo. Item: Dark Claw. Killcount: 16. Drop Rate: 25.
+
+Monster: Kreearra. Item: Armadyl Hilt. Killcount: 844. Drop Rate: 508.
+
+Monster: Zulrah. Item: Magic Fang. Killcount: 1433. Drop Rate: 512.
+
+Monster: Kalphite Queen. Item: Dragon Chainbody. Killcount: 38. Drop Rate: 128.
+
+Monster: Dagannoth Rex. Item: Warrior Ring. Killcount: 156. Drop Rate: 128.
+
+Monster: Cerberus. Item: Hellpuppy. Killcount: 502. Drop Rate: 3000.
+
+Monster: Commander Zilyana. Item: Saradomin Sword. Killcount: 140. Drop Rate: 127.
+
+Monster: Kril Tsutasroth. Item: Zamorak Hilt. Killcount: 63. Drop Rate: 508.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 87. Drop Rate: 200.
+
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 5903. Drop Rate: 5000.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 7969. Drop Rate: 5000.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 16. Drop Rate: 118.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 2947. Drop Rate: 1000.
+
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 18. Drop Rate: 1365.
+
+Monster: Kalphite Queen. Item: Dragon Chainbody. Killcount: 63. Drop Rate: 128.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 698. Drop Rate: 5000.
+
+Monster: Thermonuclear Smoke Devil. Item: Dragon Chainbody. Killcount: 1553. Drop Rate: 2000.
+
+Monster: Black Demon. Item: Dark Totem Middle. Killcount: 379. Drop Rate: 340.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 32. Drop Rate: 100.
+
+Monster: Commander Zilyana. Item: Pet Zilyana. Killcount: 2815. Drop Rate: 5000.
+
+Monster: Thermonuclear Smoke Devil. Item: Smoke Battlestaff. Killcount: 827. Drop Rate: 512.
+
+Monster: Kril Tsutasroth. Item: Pet Kril Tsutsaroth. Killcount: 3485. Drop Rate: 5000.
+
+Monster: Corporeal Beast. Item: Pet Dark Core. Killcount: 5389. Drop Rate: 5000.
+
+Monster: Kalphite Queen. Item: Kalphite Princess. Killcount: 139. Drop Rate: 3000.
+
+Monster: Dagannoth Rex. Item: Warrior Ring. Killcount: 138. Drop Rate: 128.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 228. Drop Rate: 512.
+
+Monster: Vetion. Item: Vetion jr. Killcount: 611. Drop Rate: 2000.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 1510. Drop Rate: 1500.
+
+Monster: Zulrah. Item: Pet Snakeling. Killcount: 429. Drop Rate: 4000.
+
+Monster: Chaos Fanatic. Item: Malediction Shard 1. Killcount: 302. Drop Rate: 256.
+
+Monster: Zulrah. Item: Uncut Onyx. Killcount: 778. Drop Rate: 512.
+
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 4246. Drop Rate: 1365.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 244. Drop Rate: 200.
+
+Monster: General Graardor. Item: Bandos Boots. Killcount: 233. Drop Rate: 384.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 230. Drop Rate: 512.
+
+Monster: Cerberus. Item: Pegasian Crystal. Killcount: 337. Drop Rate: 512.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 1328. Drop Rate: 1000.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 59. Drop Rate: 128.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 268. Drop Rate: 2000.
+
+Monster: Lesser Demon. Item: Dark Totem Base. Killcount: 684. Drop Rate: 413.
+
+Monster: Commander Zilyana. Item: Saradomin Hilt. Killcount: 520. Drop Rate: 508.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 191. Drop Rate: 512.
+
+Monster: Vetion. Item: Vetion jr. Killcount: 1703. Drop Rate: 2000.
+
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 718. Drop Rate: 300.
+
+Monster: General Graardor. Item: Bandos Tassets. Killcount: 615. Drop Rate: 384.
+
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 3557. Drop Rate: 5000.
+
+Monster: Kril Tsutasroth. Item: Zamorak Hilt. Killcount: 43. Drop Rate: 508.
+
+Monster: Commander Zilyana. Item: Armadyl Crossbow. Killcount: 234. Drop Rate: 508.
+
+Monster: Dagannoth Rex. Item: Berserker Ring. Killcount: 165. Drop Rate: 128.
+
+Monster: Skotizo. Item: Uncut Onyx. Killcount: 765. Drop Rate: 1000.
+
+Monster: Wintertodt. Item: Pyromancer Boots. Killcount: 296. Drop Rate: 150.
+
+Monster: Cerberus. Item: Primordial Crystal. Killcount: 3648. Drop Rate: 512.
+
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 146. Drop Rate: 5000.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 169. Drop Rate: 118.
+
+Monster: Kraken. Item: Pet Kraken. Killcount: 678. Drop Rate: 3000.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 928. Drop Rate: 5000.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 225. Drop Rate: 100.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 125. Drop Rate: 512.
+
+Monster: Black Demon. Item: Ancient Shard. Killcount: 535. Drop Rate: 226.
+
+Monster: Skotizo. Item: Skotos. Killcount: 164. Drop Rate: 65.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 30. Drop Rate: 512.
+
+Monster: Kril Tsutasroth. Item: Staff of Dead. Killcount: 610. Drop Rate: 508.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 10642. Drop Rate: 5000.
+
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 123. Drop Rate: 300.
+
+Monster: Commander Zilyana. Item: Pet Zilyana. Killcount: 10152. Drop Rate: 5000.
+
+Monster: Kalphite Queen. Item: Dragon Chainbody. Killcount: 16. Drop Rate: 128.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 154. Drop Rate: 3000.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 727. Drop Rate: 275.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 113. Drop Rate: 1000.
+
+Monster: Zulrah. Item: Uncut Onyx. Killcount: 133. Drop Rate: 512.
+
+Monster: Wintertodt. Item: Bruma Torch. Killcount: 155. Drop Rate: 150.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 13775. Drop Rate: 5000.
+
+Monster: Commander Zilyana. Item: Pet Zilyana. Killcount: 2795. Drop Rate: 5000.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 123. Drop Rate: 512.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 581. Drop Rate: 5000.
+
+Monster: Lesser Demon. Item: Dark Totem Base. Killcount: 1100. Drop Rate: 413.
+
+Monster: Cerberus. Item: Primordial Crystal. Killcount: 572. Drop Rate: 512.
+
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 95. Drop Rate: 508.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 2194. Drop Rate: 5000.
+
+Monster: Chaos Fanatic. Item: Malediction Shard 1. Killcount: 176. Drop Rate: 256.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 130. Drop Rate: 200.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 527. Drop Rate: 512.
+
+Monster: Kril Tsutasroth. Item: Staff of Dead. Killcount: 22. Drop Rate: 508.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 6124. Drop Rate: 5000.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 428. Drop Rate: 200.
+
+Monster: Kril Tsutasroth. Item: Zamorakian Spear. Killcount: 130. Drop Rate: 128.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 503. Drop Rate: 200.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 2692. Drop Rate: 1000.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 185. Drop Rate: 118.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 5556. Drop Rate: 3000.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 392. Drop Rate: 512.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 426. Drop Rate: 200.
+
+Monster: Commander Zilyana. Item: "Saradomins Light". Killcount: 604. Drop Rate: 254.
+
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 492. Drop Rate: 5000.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 64. Drop Rate: 118.
+
+Monster: Skotizo. Item: Dark Claw. Killcount: 5. Drop Rate: 25.
+
+Monster: Vetion. Item: Vetion jr. Killcount: 704. Drop Rate: 2000.
+
+Monster: Scorpia. Item: Dragon Scimitar. Killcount: 52. Drop Rate: 128.
+
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 43. Drop Rate: 300.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 6764. Drop Rate: 2000.
+
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 174. Drop Rate: 340.
+
+Monster: Kril Tsutasroth. Item: Pet Kril Tsutsaroth. Killcount: 1034. Drop Rate: 5000.
+
+Monster: Chaos Fanatic. Item: Ancient Staff. Killcount: 15. Drop Rate: 128.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 3768. Drop Rate: 2000.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 101. Drop Rate: 512.
+
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 1393. Drop Rate: 1365.
+
+Monster: Kril Tsutasroth. Item: Staff of Dead. Killcount: 333. Drop Rate: 508.
+
+Monster: Commander Zilyana. Item: Pet Zilyana. Killcount: 1567. Drop Rate: 5000.
+
+Monster: Skotizo. Item: Skotos. Killcount: 192. Drop Rate: 65.
+
+Monster: Thermonuclear Smoke Devil. Item: Pet Smoke Devil. Killcount: 1355. Drop Rate: 3000.
+
+Monster: Kreearra. Item: Armadyl Hilt. Killcount: 385. Drop Rate: 508.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 1432. Drop Rate: 5000.
+
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 55. Drop Rate: 256.
+
+Monster: General Graardor. Item: Bandos Boots. Killcount: 880. Drop Rate: 384.
+
+Monster: Kreearra. Item: Armadyl Helmet. Killcount: 246. Drop Rate: 384.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 533. Drop Rate: 512.
+
+Monster: Chaos Fanatic. Item: Malediction Shard 1. Killcount: 9. Drop Rate: 256.
+
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 7692. Drop Rate: 5000.
+
+Monster: General Graardor. Item: Bandos Tassets. Killcount: 26. Drop Rate: 384.
+
+Monster: General Graardor. Item: Bandos Boots. Killcount: 291. Drop Rate: 384.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 880. Drop Rate: 2000.
+
+Monster: Zulrah. Item: Magma Mutagen. Killcount: 235. Drop Rate: 6554.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 45. Drop Rate: 118.
+
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 133. Drop Rate: 128.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 22. Drop Rate: 512.
+
+Monster: Lesser Demon. Item: Dark Totem Base. Killcount: 2206. Drop Rate: 413.
+
+Monster: Commander Zilyana. Item: Saradomin Hilt. Killcount: 967. Drop Rate: 508.
+
+Monster: Kreearra. Item: Pet Kreearra. Killcount: 6073. Drop Rate: 5000.
+
+Monster: General Graardor. Item: Bandos Tassets. Killcount: 510. Drop Rate: 384.
+
+Monster: General Graardor. Item: Bandos Boots. Killcount: 219. Drop Rate: 384.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 630. Drop Rate: 2000.
+
+Monster: Black Demon. Item: Dark Totem Middle. Killcount: 1207. Drop Rate: 340.
+
+Monster: Lesser Demon. Item: Dark Totem Base. Killcount: 48. Drop Rate: 413.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 221. Drop Rate: 118.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 109. Drop Rate: 200.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 220. Drop Rate: 1000.
+
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 47. Drop Rate: 300.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 62. Drop Rate: 100.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 381. Drop Rate: 200.
+
+Monster: Skotizo. Item: Jar Of Darkness. Killcount: 675. Drop Rate: 2500.
+
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 1366. Drop Rate: 508.
+
+Monster: Wintertodt. Item: Dragon Axe. Killcount: 14965. Drop Rate: 10000.
+
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 7. Drop Rate: 128.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 224. Drop Rate: 512.
+
+Monster: Skotizo. Item: Dark Claw. Killcount: 38. Drop Rate: 25.
+
+Monster: King Black Dragon. Item: Prince Black Dragon. Killcount: 1974. Drop Rate: 3000.
+
+Monster: Corporeal Beast. Item: Holy Elixir. Killcount: 105. Drop Rate: 171.
+
+Monster: Black Demon. Item: Dark TOtem Top . Killcount: 343. Drop Rate: 340.
+
+Monster: Kalphite Queen. Item: Dragon Chainbody. Killcount: 13. Drop Rate: 128.
+
+Monster: Kraken. Item: Pet Kraken. Killcount: 132. Drop Rate: 3000.
+
+Monster: Kalphite Queen. Item: Kalphite Princess. Killcount: 957. Drop Rate: 3000.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 14564. Drop Rate: 5000.
+
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 229. Drop Rate: 340.
+
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 243. Drop Rate: 256.
+
+Monster: Cerberus. Item: Pegasian Crystal. Killcount: 394. Drop Rate: 512.
+
+Monster: Zulrah. Item: Jar of Swamp. Killcount: 7068. Drop Rate: 3000.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 121. Drop Rate: 275.
+
+Monster: Chaos Fanatic. Item: Ancient Staff. Killcount: 3. Drop Rate: 128.
+
+Monster: Zulrah. Item: Magic Fang. Killcount: 526. Drop Rate: 512.
+
+Monster: Commander Zilyana. Item: Saradomin Hilt. Killcount: 770. Drop Rate: 508.
+
+Monster: Chaos Fanatic. Item: Ancient Staff. Killcount: 154. Drop Rate: 128.
+
+Monster: Skotizo. Item: Skotos. Killcount: 139. Drop Rate: 65.
+
+Monster: Thermonuclear Smoke Devil. Item: Dragon Chainbody. Killcount: 2851. Drop Rate: 2000.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 30. Drop Rate: 128.
+
+Monster: Kreearra. Item: Pet Kreearra. Killcount: 82. Drop Rate: 5000.
+
+Monster: King Black Dragon. Item: Prince Black Dragon. Killcount: 4515. Drop Rate: 3000.
+
+Monster: Skotizo. Item: Dark Claw. Killcount: 7. Drop Rate: 25.
+
+Monster: Black Demon. Item: Dark TOtem Top . Killcount: 177. Drop Rate: 340.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 1689. Drop Rate: 1500.
+
+Monster: Kreearra. Item: Armadyl Helmet. Killcount: 915. Drop Rate: 384.
+
+Monster: Zulrah. Item: Tanzanite Mutagen. Killcount: 240. Drop Rate: 6554.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 710. Drop Rate: 118.
+
+Monster: Thermonuclear Smoke Devil. Item: Acnicent Staff. Killcount: 87. Drop Rate: 129.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 321. Drop Rate: 128.
+
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 104. Drop Rate: 300.
+
+Monster: Thermonuclear Smoke Devil. Item: Dragon Chainbody. Killcount: 1189. Drop Rate: 2000.
+
+Monster: Kalphite Queen. Item: Jar of Sand. Killcount: 877. Drop Rate: 2000.
+
+Monster: General Graardor. Item: Bandos Boots. Killcount: 192. Drop Rate: 384.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 131. Drop Rate: 275.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 158. Drop Rate: 200.
+
+Monster: Kril Tsutasroth. Item: Zamorak Hilt. Killcount: 128. Drop Rate: 508.
+
+Monster: Thermonuclear Smoke Devil. Item: Dragon Chainbody. Killcount: 2975. Drop Rate: 2000.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 282. Drop Rate: 2000.
+
+Monster: Zulrah. Item: Uncut Onyx. Killcount: 35. Drop Rate: 512.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 2284. Drop Rate: 1000.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 189. Drop Rate: 1500.
+
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 250. Drop Rate: 384.
+
+Monster: King Black Dragon. Item: Prince Black Dragon. Killcount: 8952. Drop Rate: 3000.
+
+Monster: Thermonuclear Smoke Devil. Item: Dragon Chainbody. Killcount: 1256. Drop Rate: 2000.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 305. Drop Rate: 2000.
+
+Monster: Scorpia. Item: "Scorpias Offspring". Killcount: 239. Drop Rate: 2000.
+
+Monster: Corporeal Beast. Item: Pet Dark Core. Killcount: 123. Drop Rate: 5000.
+
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 116. Drop Rate: 256.
+
+Monster: Thermonuclear Smoke Devil. Item: Dragon Chainbody. Killcount: 1746. Drop Rate: 2000.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 2297. Drop Rate: 1000.
+
+Monster: Cerberus. Item: Pegasian Crystal. Killcount: 43. Drop Rate: 512.
+
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 57. Drop Rate: 256.
+
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 9845. Drop Rate: 5000.
+
+Monster: General Graardor. Item: Bandos Tassets. Killcount: 1013. Drop Rate: 384.
+
+Monster: Lesser Demon. Item: Dark Totem Top. Killcount: 42. Drop Rate: 413.
+
+Monster: Skotizo. Item: Uncut Onyx. Killcount: 570. Drop Rate: 1000.
+
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 109. Drop Rate: 256.
+
+Monster: Zulrah. Item: Pet Snakeling. Killcount: 637. Drop Rate: 4000.
+
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 679. Drop Rate: 340.
+
+Monster: Zulrah. Item: Serpentine Visage. Killcount: 1032. Drop Rate: 512.
+
+Monster: Kril Tsutasroth. Item: Zamorakian Spear. Killcount: 79. Drop Rate: 128.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 111. Drop Rate: 200.
+
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 215. Drop Rate: 256.
+
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 741. Drop Rate: 300.
+
+Monster: Zulrah. Item: Jar of Swamp. Killcount: 4113. Drop Rate: 3000.
+
+Monster: Thermonuclear Smoke Devil. Item: Smoke Battlestaff. Killcount: 58. Drop Rate: 512.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 4627. Drop Rate: 3000.
+
+Monster: Kraken. Item: Jar Of Dirt. Killcount: 575. Drop Rate: 1000.
+
+Monster: Thermonuclear Smoke Devil. Item: Acnicent Staff. Killcount: 291. Drop Rate: 129.
+
+Monster: Kril Tsutasroth. Item: Zamorakian Spear. Killcount: 25. Drop Rate: 128.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 686. Drop Rate: 5000.
+
+Monster: Cerberus. Item: Smouldering Stone. Killcount: 972. Drop Rate: 512.
+
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 378. Drop Rate: 128.
+
+Monster: General Graardor. Item: Bandos Chestplate. Killcount: 64. Drop Rate: 384.
+
+Monster: Cerberus. Item: Primordial Crystal. Killcount: 122. Drop Rate: 512.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 154. Drop Rate: 275.
+
+Monster: Thermonuclear Smoke Devil. Item: Pet Smoke Devil. Killcount: 6292. Drop Rate: 3000.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 364. Drop Rate: 1000.
+
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 84. Drop Rate: 128.
+
+Monster: Black Demon. Item: Dark Totem Middle. Killcount: 180. Drop Rate: 340.
+
+Monster: Cerberus. Item: Smouldering Stone. Killcount: 1123. Drop Rate: 512.
+
+Monster: Thermonuclear Smoke Devil. Item: Pet Smoke Devil. Killcount: 42. Drop Rate: 3000.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 248. Drop Rate: 275.
+
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 5. Drop Rate: 256.
+
+Monster: Lesser Demon. Item: Lesser Demon Champion Scroll. Killcount: 9203. Drop Rate: 5000.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 132. Drop Rate: 118.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 147. Drop Rate: 200.
+
+Monster: King Black Dragon. Item: Draconic Visage. Killcount: 6393. Drop Rate: 5000.
+
+Monster: Cerberus. Item: Hellpuppy. Killcount: 10208. Drop Rate: 3000.
+
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 50. Drop Rate: 128.
+
+Monster: Kraken. Item: Pet Kraken. Killcount: 2553. Drop Rate: 3000.
+
+Monster: Kalphite Queen. Item: Jar of Sand. Killcount: 3050. Drop Rate: 2000.
+
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 3. Drop Rate: 256.
+
+Monster: Kalphite Queen. Item: Kalphite Princess. Killcount: 8158. Drop Rate: 3000.
+
+Monster: Cerberus. Item: Jar of Souls. Killcount: 2598. Drop Rate: 2000.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 3085. Drop Rate: 2000.
+
+Monster: Kraken. Item: Jar Of Dirt. Killcount: 455. Drop Rate: 1000.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 185. Drop Rate: 128.
+
+Monster: Kraken. Item: Kraken Tentacle. Killcount: 53. Drop Rate: 300.
+
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 244. Drop Rate: 300.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 11. Drop Rate: 2000.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 55. Drop Rate: 128.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 2114. Drop Rate: 2000.
+
+Monster: Corporeal Beast. Item: Holy Elixir. Killcount: 335. Drop Rate: 171.
+
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 430. Drop Rate: 300.
+
+Monster: Black Demon. Item: Ancient Shard. Killcount: 23. Drop Rate: 226.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 971. Drop Rate: 512.
+
+Monster: Lesser Demon. Item: Darm Totem Middle. Killcount: 103. Drop Rate: 413.
+
+Monster: Dagannoth Prime. Item: Pet Dagannoth Prime. Killcount: 5334. Drop Rate: 5000.
+
+Monster: Scorpia. Item: Malediction Shard 3. Killcount: 2. Drop Rate: 256.
+
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 440. Drop Rate: 256.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 389. Drop Rate: 512.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 30. Drop Rate: 128.
+
+Monster: Vetion. Item: Ring Of the Gods. Killcount: 654. Drop Rate: 512.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 75. Drop Rate: 100.
+
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 136. Drop Rate: 256.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 676. Drop Rate: 3000.
+
+Monster: Cerberus. Item: Smouldering Stone. Killcount: 686. Drop Rate: 512.
+
+Monster: Zulrah. Item: Tanzanite Mutagen. Killcount: 6985. Drop Rate: 6554.
+
+Monster: Zulrah. Item: Jar of Swamp. Killcount: 3750. Drop Rate: 3000.
+
+Monster: Scorpia. Item: Dragon Scimitar. Killcount: 21. Drop Rate: 128.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 2721. Drop Rate: 5000.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 65. Drop Rate: 118.
+
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 1250. Drop Rate: 1365.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 2011. Drop Rate: 1000.
+
+Monster: Dagannoth Prime. Item: Pet Dagannoth Prime. Killcount: 4229. Drop Rate: 5000.
+
+Monster: Cerberus. Item: Hellpuppy. Killcount: 766. Drop Rate: 3000.
+
+Monster: Black Demon. Item: Dark Totem Middle. Killcount: 604. Drop Rate: 340.
+
+Monster: Dagannoth Prime. Item: Mud Battlestaff. Killcount: 2. Drop Rate: 128.
+
+Monster: Lesser Demon. Item: Lesser Demon Champion Scroll. Killcount: 3453. Drop Rate: 5000.
+
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 856. Drop Rate: 508.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 96. Drop Rate: 200.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 2670. Drop Rate: 3000.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 447. Drop Rate: 200.
+
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 158. Drop Rate: 256.
+
+Monster: Kreearra. Item: Armadyl Chestplate. Killcount: 718. Drop Rate: 384.
+
+Monster: Kril Tsutasroth. Item: Pet Kril Tsutsaroth. Killcount: 162. Drop Rate: 5000.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 1062. Drop Rate: 3000.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 6065. Drop Rate: 2000.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 2299. Drop Rate: 5000.
+
+Monster: Zulrah. Item: Pet Snakeling. Killcount: 269. Drop Rate: 4000.
+
+Monster: Zulrah. Item: Serpentine Visage. Killcount: 37. Drop Rate: 512.
+
+Monster: Kraken. Item: Jar Of Dirt. Killcount: 2325. Drop Rate: 1000.
+
+Monster: Scorpia. Item: Malediction Shard 3. Killcount: 77. Drop Rate: 256.
+
+Monster: Skotizo. Item: Skotos. Killcount: 101. Drop Rate: 65.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 1500. Drop Rate: 5000.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 260. Drop Rate: 128.
+
+Monster: Callisto. Item: Callisto Cub. Killcount: 1721. Drop Rate: 2000.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 5. Drop Rate: 200.
+
+Monster: Scorpia. Item: Malediction Shard 3. Killcount: 168. Drop Rate: 256.
+
+Monster: Wintertodt. Item: Dragon Axe. Killcount: 9715. Drop Rate: 10000.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 7994. Drop Rate: 5000.
+
+Monster: Kalphite Queen. Item: Kalphite Princess. Killcount: 6484. Drop Rate: 3000.
+
+Monster: Zulrah. Item: Magma Mutagen. Killcount: 14958. Drop Rate: 6554.
+
+Monster: Chaos Elemental. Item: Pet Chaos Elemental. Killcount: 221. Drop Rate: 300.
+
+Monster: Vetion. Item: Vetion jr. Killcount: 488. Drop Rate: 2000.
+
+Monster: Black Demon. Item: Dark TOtem Top . Killcount: 231. Drop Rate: 340.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 27. Drop Rate: 118.
+
+Monster: Kraken. Item: Pet Kraken. Killcount: 806. Drop Rate: 3000.
+
+Monster: Zulrah. Item: Tanzanite Fang. Killcount: 1104. Drop Rate: 512.
+
+Monster: Chaos Fanatic. Item: Malediction Shard 1. Killcount: 746. Drop Rate: 256.
+
+Monster: Vetion. Item: Vetion jr. Killcount: 1366. Drop Rate: 2000.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 6262. Drop Rate: 5000.
+
+Monster: Corporeal Beast. Item: Pet Dark Core. Killcount: 758. Drop Rate: 5000.
+
+Monster: Cerberus. Item: Eternal Crystal. Killcount: 1901. Drop Rate: 512.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 698. Drop Rate: 2000.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 741. Drop Rate: 512.
+
+Monster: Lesser Demon. Item: Darm Totem Middle. Killcount: 23. Drop Rate: 413.
+
+Monster: Skotizo. Item: Jar Of Darkness. Killcount: 9277. Drop Rate: 2500.
+
+Monster: Chaos Fanatic. Item: Ancient Staff. Killcount: 22. Drop Rate: 128.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 48. Drop Rate: 100.
+
+Monster: Corporeal Beast. Item: Elysian Sigil. Killcount: 5800. Drop Rate: 4095.
+
+Monster: Kalphite Queen. Item: Dragon 2h Sword. Killcount: 72. Drop Rate: 256.
+
+Monster: Dagannoth Rex. Item: Pet Dagannoth Rex. Killcount: 6693. Drop Rate: 5000.
+
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 90. Drop Rate: 256.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 501. Drop Rate: 275.
+
+Monster: Wintertodt. Item: Pyromancer Boots. Killcount: 130. Drop Rate: 150.
+
+Monster: Black Demon. Item: Dark TOtem Top . Killcount: 6. Drop Rate: 340.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 7224. Drop Rate: 2000.
+
+Monster: Skotizo. Item: Uncut Onyx. Killcount: 2139. Drop Rate: 1000.
+
+Monster: Scorpia. Item: Odium Shard 3. Killcount: 602. Drop Rate: 256.
+
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 11. Drop Rate: 256.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 223. Drop Rate: 1000.
+
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 318. Drop Rate: 1000.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 7. Drop Rate: 100.
+
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 815. Drop Rate: 1000.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 15. Drop Rate: 100.
+
+Monster: Thermonuclear Smoke Devil. Item: Smoke Battlestaff. Killcount: 174. Drop Rate: 512.
+
+Monster: Dagannoth Supreme. Item: Pet Dagannoth Supreme. Killcount: 11873. Drop Rate: 5000.
+
+Monster: King Black Dragon. Item: Dragon Pickaxe. Killcount: 1200. Drop Rate: 1500.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 3003. Drop Rate: 1000.
+
+Monster: General Graardor. Item: Pet General Graardor. Killcount: 8983. Drop Rate: 5000.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 190. Drop Rate: 100.
+
+Monster: Scorpia. Item: Malediction Shard 3. Killcount: 489. Drop Rate: 256.
+
+Monster: Kalphite Queen. Item: Dragon Chainbody. Killcount: 186. Drop Rate: 128.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 64. Drop Rate: 100.
+
+Monster: Wintertodt. Item: Dragon Axe. Killcount: 21410. Drop Rate: 10000.
+
+Monster: Corporeal Beast. Item: Pet Dark Core. Killcount: 20506. Drop Rate: 5000.
+
+Monster: Corporeal Beast. Item: Elysian Sigil. Killcount: 131. Drop Rate: 4095.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 110. Drop Rate: 100.
+
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 192. Drop Rate: 128.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 805. Drop Rate: 5000.
+
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 897. Drop Rate: 1365.
+
+Monster: Abyssal Sire. Item: Unsired. Killcount: 216. Drop Rate: 100.
+
+Monster: Obor. Item: Hill Giant Club. Killcount: 108. Drop Rate: 118.
+
+Monster: Lesser Demon. Item: Ancient Shard. Killcount: 127. Drop Rate: 275.
+
+Monster: Chaos Fanatic. Item: Odium Shard 1. Killcount: 114. Drop Rate: 256.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 6548. Drop Rate: 5000.
+
+Monster: Dagannoth Supreme. Item: Archers Ring. Killcount: 14. Drop Rate: 128.
+
+Monster: Zulrah. Item: Tanzanite Mutagen. Killcount: 7970. Drop Rate: 6554.
+
+Monster: Callisto. Item: Tyrannical Ring. Killcount: 357. Drop Rate: 512.
+
+Monster: Wintertodt. Item: Tome Of Fire. Killcount: 1639. Drop Rate: 1000.
+
+Monster: Chaos Fanatic. Item: Pet Chaos Elemental. Killcount: 1067. Drop Rate: 1000.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 299. Drop Rate: 200.
+
+Monster: Cerberus. Item: Pegasian Crystal. Killcount: 223. Drop Rate: 512.
+
+Monster: Thermonuclear Smoke Devil. Item: Pet Smoke Devil. Killcount: 230. Drop Rate: 3000.
+
+Monster: Kraken. Item: Trident Of The Seas. Killcount: 30. Drop Rate: 512.
+
+Monster: Wintertodt. Item: Pyromancer Robe. Killcount: 118. Drop Rate: 150.
+
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 103. Drop Rate: 128.
+
+Monster: Commander Zilyana. Item: Saradomin Sword. Killcount: 18. Drop Rate: 127.
+
+Monster: Zulrah. Item: Serpentine Visage. Killcount: 14. Drop Rate: 512.
+
+Monster: Commander Zilyana. Item: Saradomin Sword. Killcount: 165. Drop Rate: 127.
+
+Monster: Corporeal Beast. Item: Arcane Sigil. Killcount: 1564. Drop Rate: 1365.
+
+Monster: TzKal Zuk. Item: Jal nib rek. Killcount: 775. Drop Rate: 1000.
+
+Monster: Lesser Demon. Item: Lesser Demon Champion Scroll. Killcount: 4842. Drop Rate: 5000.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 7758. Drop Rate: 3000.
+
+Monster: General Graardor. Item: Bandos Hilt. Killcount: 982. Drop Rate: 508.
+
+Monster: Black Demon. Item: Ancient Shard. Killcount: 380. Drop Rate: 226.
+
+Monster: Lesser Demon. Item: Lesser Demon Champion Scroll. Killcount: 2783. Drop Rate: 5000.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 12234. Drop Rate: 5000.
+
+Monster: Kril Tsutasroth. Item: Steam Battlestaff. Killcount: 52. Drop Rate: 128.
+
+Monster: Venenatis. Item: Veneatis Spiderling. Killcount: 5492. Drop Rate: 2000.
+
+Monster: Skotizo. Item: Dark Claw. Killcount: 7. Drop Rate: 25.
+
+Monster: Giant Mole. Item: Baby Mole. Killcount: 2529. Drop Rate: 3000.
+
+Monster: Cerberus. Item: Hellpuppy. Killcount: 3890. Drop Rate: 3000.
+
+Monster: Dagannoth Rex. Item: Warrior Ring. Killcount: 175. Drop Rate: 128.
+
+Monster: Kalphite Queen. Item: Dragon Chainbody. Killcount: 306. Drop Rate: 128.
+
+Monster: Black Demon. Item: Dark Totem Base. Killcount: 118. Drop Rate: 340.
+
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 28. Drop Rate: 128.
+
+Monster: Dagannoth Prime. Item: Seers Ring. Killcount: 159. Drop Rate: 128.
+
+Monster: Venenatis. Item: Treasonous Ring. Killcount: 494. Drop Rate: 512.
+
+Monster: Obor. Item: Giant Champion Scroll. Killcount: 12485. Drop Rate: 5000.
+
+Monster: Skotizo. Item: Jar Of Darkness. Killcount: 2567. Drop Rate: 2500.
+
+Monster: Jad. Item: Tzerk jad. Killcount: 234. Drop Rate: 200.
+
+Monster: Kreearra. Item: Pet Kreearra. Killcount: 45. Drop Rate: 5000.
+
+Monster: Wintertodt. Item: Pyromancer Garb. Killcount: 44. Drop Rate: 150.
+
+Monster: King Black Dragon. Item: Prince Black Dragon. Killcount: 1102. Drop Rate: 3000.
+
+Monster: Skotizo. Item: Skotos. Killcount: 121. Drop Rate: 65.

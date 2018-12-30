@@ -1,0 +1,6 @@
+Berserker Ring
+128
+Warrior Ring
+128
+Pet Dagannoth Rex
+5000
