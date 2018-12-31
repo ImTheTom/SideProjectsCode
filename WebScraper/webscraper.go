@@ -16,17 +16,17 @@ import(
 	"bytes"
 )
 
-var ftpUrl string = "serverurl"
+var ftpUrl string = "URL" //URL to ftp server
 
-var ftpUser string  = "username"
+var ftpUser string  = "username" //Log in to FTP server
 
-var ftpPass string = "password"
+var ftpPass string = "password" //Password to FTP server
 
-var values [16] int
+var values [16] int //Current Values stored
 
-var upcomingUrls [500] string
+var upUrls [100] string //Upcoming URLS
 
-var previousUrls [100] string
+var prUrls [100] string //Previous URLS
 
 var sites = [11]string{"https://www.youtube.com",
 				   "https://github.com/",
@@ -38,26 +38,12 @@ var sites = [11]string{"https://www.youtube.com",
 				   "https://au.yahoo.com/",
 				   "https://www.amazon.com",
 				   "https://www.abc.net.au/",
-				   "https://www.dailymail.co.uk/auhome/index.html"}
+				   "https://www.dailymail.co.uk/auhome/index.html"} //Possible starting points
 
-func uploadFile() {
-	fmt.Println("Connecting to ftp...")
-	c, err := ftp.Dial(ftpUrl)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-	c.Login(ftpUser, ftpPass)
-	defer c.Quit()
-	s,_:=ioutil.ReadFile("count.txt")
-	d := string(s)
-	data := bytes.NewBufferString(d)
-	err = c.Stor("public_html/count.txt",data)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-	fmt.Println("Uploaded file")
+func selectNewUrl() string {
+	rand.Seed(time.Now().Unix())
+					
+	return sites[rand.Intn(len(sites))]
 }
 
 func getContent(url string) string{
@@ -67,7 +53,7 @@ func getContent(url string) string{
 		return "fail"
 	}
 
-	resp, err := http.Get(url)
+	resp, err := http.Get(url) //Load the http site
 
 	if resp == nil {
 		return "fail"
@@ -90,11 +76,16 @@ func getContent(url string) string{
 func removeHead(content string) string{
 	r, _ := regexp.Compile("body")
 	locations:=r.FindStringIndex(content)
+
 	if len(locations) == 0 {
 		return "fail"
 	}
-	content = content[locations[0]:]
-	return content
+
+	return content[locations[0]:]
+}
+
+func findURLS(content string) []string{
+	return xurls.Strict().FindAllString(content, -1)
 }
 
 func removeURLS(content string) string{
@@ -103,77 +94,83 @@ func removeURLS(content string) string{
 }
 
 func removeCommas(content string) string{
-	text := strings.Replace(content, ",", "", -1)
-	return text
+	return strings.Replace(content, ",", "", -1)
 }
 
 func findNumbers(content string) []string{
-	re := regexp.MustCompile("[0-9]+")
-	return re.FindAllString(content, -1)
+	r := regexp.MustCompile("[0-9]+")
+	return r.FindAllString(content, -1)
 }
 
 func updateValues(numbers [] string){
 	for _, number := range numbers{
-		index := len(number)-1
-		if index >= 16 {
-			index = 15
+		i := len(number)-1 //If length is 1 then it goes in the 0 index
+		if i >= 16 {
+			i = 15
 		}
-		values[index] = values[index] + 1
+		values[i] = values[i] + 1
 	}
 }
 
 func updateURLS(url string, urls [] string){
-	previousFound := false
+	pUrl := false
+
 	for _,v := range urls {
-		for i:=0; i<len(previousUrls); i++ {
-			if previousUrls[i] == v{
-				previousFound = true
+		for i:=0; i<len(prUrls); i++ { //Check if previously went there
+			if prUrls[i] == v{
+				pUrl = true
 				break
 			}
 		}
-		for i:=0; i<len(upcomingUrls); i++ {
-			if previousFound {
+
+		for i:=0; i<len(upUrls); i++ { //Check if new url should go into upcoming urls
+			if pUrl {
+				break //Break out if pUrl was set to true
+			}else if upUrls[i]=="" {
+				upUrls[i] = v
 				break
-			}
-			if upcomingUrls[i]=="" {
-				upcomingUrls[i] = v
+			}else if upUrls[i]==v {
 				break
-			}else if upcomingUrls[i]==v {
-				break
-			}else if upcomingUrls[i]==url {
+			}else if upUrls[i]==url {
 				break
 			}
 		}
-		previousFound = false
+		pUrl = false
 	}
+
 }
 
 func getFirstUrl() string{
-	next := upcomingUrls[0]
-	shiftUrlsToLeft()
+	next := upUrls[0]
+	shiftUpUrlsToLeft()
+
 	if(next==""){
 		next = selectNewUrl()
 	}
+
 	return next
 }
 
-func shiftUrlsToLeft() {
-	for i:=0; i<len(upcomingUrls)-1; i++ {
-		upcomingUrls[i] = upcomingUrls[i+1]
+func shiftUpUrlsToLeft() {
+	for i:=0; i<len(upUrls)-1; i++ {
+		upUrls[i] = upUrls[i+1]
 	}
-	upcomingUrls[499] = ""
+
+	upUrls[len(upUrls)-1] = ""
 }
 
 func updatePreviousUrls(newUrl string){
-	for i:=len(previousUrls)-1; i>0; i-- {
-		previousUrls[i] = previousUrls[i-1]
+	for i:=len(prUrls)-1; i>0; i-- {
+		prUrls[i] = prUrls[i-1]
 	}
-	previousUrls[0] = newUrl
+
+	prUrls[0] = newUrl
 }
 
 func resetUrls() {
-	for i:=0; i<len(upcomingUrls); i++ {
-		upcomingUrls[i] = ""
+	for i:=0; i<len(upUrls); i++ {
+		upUrls[i] = ""
+		prUrls[i] = ""
 	}
 }
 
@@ -241,10 +238,30 @@ func updateDatabase(){
 	uploadFile()
 }
 
-func selectNewUrl() string {
-	rand.Seed(time.Now().Unix()) // initialize global pseudo random generator
-	
-	return sites[rand.Intn(len(sites))]
+func uploadFile() {
+	fmt.Println("Connecting to ftp...")
+
+	c, err := ftp.Dial(ftpUrl)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	c.Login(ftpUser, ftpPass)
+
+	defer c.Quit()
+
+	s,_:=ioutil.ReadFile("count.txt")
+	d := string(s)
+	data := bytes.NewBufferString(d)
+
+	err = c.Stor("public_html/count.txt",data) //Store the buffered string to the database
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	fmt.Println("Uploaded file")
 }
 
 func main(){
@@ -265,7 +282,11 @@ func main(){
 
 			if(text != "fail") {
 
-				urls := xurls.Strict().FindAllString(text, -1)
+				urls := findURLS(text)
+
+				updatePreviousUrls(url)
+
+				updateURLS(url, urls)
 
 				text = removeURLS(text)
 
@@ -274,12 +295,6 @@ func main(){
 				numberStrings := findNumbers(text)
 
 				updateValues(numberStrings)
-
-				fmt.Println(values)
-
-				updatePreviousUrls(url)
-
-				updateURLS(url, urls)
 
 			}
 
@@ -301,9 +316,11 @@ func main(){
 
 		url = getFirstUrl()
 
+		fmt.Println(values)
+
 		fmt.Println("Waiting sixty seconds")
 
-		time.Sleep(60*time.Second)
+		time.Sleep(10*time.Second)
 
 	}
 	
