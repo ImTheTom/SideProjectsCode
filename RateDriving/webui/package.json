@@ -1,0 +1,44 @@
+{
+  "name": "webui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "crypto-js": "^3.1.9-1",
+    "next": "^8.0.3",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.6",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-dom": "^16.8.6",
+    "react-native-elements": "^1.1.0",
+    "react-native-vector-icons": "^6.4.2",
+    "react-scripts": "2.1.8",
+    "reactstrap": "^7.1.0",
+    "semantic-ui-react": "^0.86.0",
+    "universal-cookie": "^3.1.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}

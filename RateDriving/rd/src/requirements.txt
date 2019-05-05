@@ -1,0 +1,6 @@
+falcon
+falcon_cors
+psycopg2-binary
+gunicorn
+pylint
+requests

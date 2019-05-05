@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS review_type;
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS users;

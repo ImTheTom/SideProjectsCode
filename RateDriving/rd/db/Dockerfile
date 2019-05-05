@@ -1,0 +1,5 @@
+FROM postgres:11.2
+
+WORKDIR /db
+
+EXPOSE 5432

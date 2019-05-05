@@ -1,0 +1,10 @@
+version: '3'
+services:
+  auth:
+    build: .
+    container_name: auth
+    ports:
+     - "4003:8080"
+    volumes:
+     - .:/app
+    restart: always
