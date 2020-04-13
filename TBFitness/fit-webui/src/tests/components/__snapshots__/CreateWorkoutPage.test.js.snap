@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render create Lift page correctly 1`] = `
+<div>
+  <div>
+    <Header />
+  </div>
+  <div>
+    <form
+      onSubmit={[Function]}
+    >
+      <label>
+        Name
+        <input
+          name="Name"
+          onChange={[Function]}
+          type="text"
+          value=""
+        />
+      </label>
+      <button>
+        Create
+      </button>
+    </form>
+  </div>
+</div>
+`;

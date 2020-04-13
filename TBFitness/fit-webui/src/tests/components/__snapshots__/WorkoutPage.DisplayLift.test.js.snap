@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render diplay lift component correctly 1`] = `
+<Connect(DisplayLift)
+  liftIndex={0}
+  lifts={
+    Object {
+      "id": 1,
+      "name": "BenchPress",
+      "reps": 5,
+      "sets": 5,
+      "user_id": 1,
+      "weight": 20,
+    }
+  }
+  workoutIndex={0}
+/>
+`;

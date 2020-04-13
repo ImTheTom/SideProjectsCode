@@ -1,0 +1,23 @@
+.lifts-box {
+    background-color: $grey-light;
+    margin: $xl-size auto $xl-size auto;
+    width: 25%;
+    padding: $l-size;
+}
+
+.lifts-title {
+	text-align: center;
+}
+
+.edit-option{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+@media only screen and (max-width: 500px) {
+	.lifts-box {
+		width: 85%;
+	}
+}

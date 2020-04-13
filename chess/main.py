@@ -1,5 +1,6 @@
 #information https://medium.com/free-code-camp/simple-chess-ai-step-by-step-1d55a9266977
 # https://python-chess.readthedocs.io/en/latest/core.html#
+# https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a
 import chess
 import helpers
 board = chess.Board()

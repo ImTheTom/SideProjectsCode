@@ -1,0 +1,46 @@
+.CreateBox {
+    background-color: $grey-light;
+    margin: $xl-size auto $xl-size auto;
+    width: 25%;
+    padding: $l-size;
+}
+
+.create-lift-title {
+	text-align: center;
+}
+
+.create-lift-input {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+}
+
+.display-lift{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+
+.display-lift-button{
+	margin: $xs-size;
+}
+
+.display-lift-control{
+	text-align: center;
+}
+
+.display-lift-name {
+	width: 50%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+@media only screen and (max-width: 500px) {
+	.CreateBox {
+		width: 85%;
+	}
+}

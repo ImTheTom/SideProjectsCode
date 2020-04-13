@@ -42,3 +42,9 @@
 2017-12-02 13:41 Image Resizer started!
 2017-12-02 13:41 imageresizer.jpg thumbnail was created
 2017-12-02 13:41 program shut down successfully
+2020-04-11 11:00 Image Resizer started!
+2020-04-11 11:00 program shut down successfully
+2020-04-11 11:01 Image Resizer started!
+2020-04-11 11:02 Image Resizer started!
+2020-04-11 11:02 fitness.jpg thumbnail was created
+2020-04-11 11:02 program shut down successfully

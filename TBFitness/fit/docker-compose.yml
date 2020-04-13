@@ -1,0 +1,37 @@
+version: '3.6'
+
+services:
+  db.fit:
+    image: "mysql:5.7"
+    container_name: "db.fit"
+    environment:
+        MYSQL_DATABASE: 'fit'
+        MYSQL_USER: 'user'
+        MYSQL_PASSWORD: 'password'
+        MYSQL_ROOT_PASSWORD: 'password'
+    expose:
+        - '3306'
+    ports:
+      - '3306:3306'
+    volumes:
+      - my-db:/var/lib/mysql
+  api:
+    image: api:latest
+    environment:
+      FIT_DB_HOST: "db.fit"
+      FIT_DB_PORT: "5432"
+      FIT_DB_NAME: "fit"
+      FIT_DB_USER: "postgres"
+      FIT_DB_PASS: ""
+      FIT_DB_SSL: "disable"
+    ports:
+      - 5000:5000
+    volumes:
+      - ./:/fit
+    depends_on:
+      - db.fit
+    links:
+      - db.fit
+
+volumes:
+    my-db:

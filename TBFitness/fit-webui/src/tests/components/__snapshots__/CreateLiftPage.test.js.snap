@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render create Lift page correctly 1`] = `
+<div>
+  <div>
+    <Header />
+  </div>
+  <div>
+    <form
+      onSubmit={[Function]}
+    >
+      <label>
+        Name
+        <input
+          name="Name"
+          onChange={[Function]}
+          type="text"
+          value=""
+        />
+      </label>
+      <label>
+        Weight
+        <input
+          name="Weight"
+          onChange={[Function]}
+          type="number"
+          value={0}
+        />
+      </label>
+      <label>
+        Reps
+        <input
+          name="Reps"
+          onChange={[Function]}
+          type="number"
+          value={0}
+        />
+      </label>
+      <label>
+        Sets
+        <input
+          name="Sets"
+          onChange={[Function]}
+          type="number"
+          value={0}
+        />
+      </label>
+      <button>
+        Create
+      </button>
+    </form>
+  </div>
+</div>
+`;

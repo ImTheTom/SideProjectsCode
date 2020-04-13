@@ -1,0 +1,5 @@
+api
+main
+index.cgi
+golangci-lint
+config/config.*.json

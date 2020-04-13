@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render create Header Component correctly 1`] = `
+<div>
+  <div>
+    <Link
+      replace={false}
+      to="/"
+    >
+      Home
+    </Link>
+    <Link
+      replace={false}
+      to="/lifts"
+    >
+      Lifts
+    </Link>
+    <Link
+      replace={false}
+      to="/createlift"
+    >
+      Create Lift
+    </Link>
+    <Link
+      replace={false}
+      to="/workouts"
+    >
+      Workouts
+    </Link>
+  </div>
+  <div>
+    Fitness.TomBowyer
+  </div>
+</div>
+`;

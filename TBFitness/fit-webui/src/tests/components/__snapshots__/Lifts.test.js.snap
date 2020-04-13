@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render diplay lift component correctly 1`] = `
+<Connect(Lifts)
+  liftsData={
+    Object {
+      "Lifts": Array [
+        Object {
+          "id": 1,
+          "name": "BenchPress",
+          "reps": 5,
+          "sets": 5,
+          "user_id": 1,
+          "weight": 20,
+        },
+        Object {
+          "id": 2,
+          "name": "Overhead Press",
+          "reps": 10,
+          "sets": 3,
+          "user_id": 1,
+          "weight": 10,
+        },
+        Object {
+          "id": 3,
+          "name": "Incline Dumbell Press",
+          "reps": 10,
+          "sets": 3,
+          "user_id": 1,
+          "weight": 15,
+        },
+        Object {
+          "id": 4,
+          "name": "Tricep Pulldown",
+          "reps": 10,
+          "sets": 3,
+          "user_id": 1,
+          "weight": 10,
+        },
+      ],
+    }
+  }
+/>
+`;
