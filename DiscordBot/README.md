@@ -1,3 +1,5 @@
+# NOTE: THIS IS TRASH DO NOT USE
+
 # Discord Bot
 
 The bot that was created was mainly for my own server and for my own side project. 
