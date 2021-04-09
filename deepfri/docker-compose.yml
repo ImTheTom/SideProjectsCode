@@ -1,0 +1,31 @@
+version: '3.6'
+
+services:
+  db.deepfri:
+    image: "postgres:11"
+    container_name: "db.deepfri"
+    environment:
+      POSTGRES_DB: 'deepfri'
+    ports:
+      - "5435:5432"
+    volumes:
+      - my_dbdata:/var/lib/postgresql/data
+      - ./database/schema/:/docker-entrypoint-initdb.d
+  api:
+    image: api:latest
+    environment:
+      DEEPFRI_DB_HOST: "db.deepfri"
+      DEEPFRI_DB_PORT: 5432
+      DEEPFRI_DB_NAME: 'deepfri'
+      DEEPFRI_DB_SSL: 'disable'
+    ports:
+      - 5000:5000
+    volumes:
+      - ./:/deepfri
+    depends_on:
+      - db.deepfri
+    links:
+      - db.deepfri
+
+volumes:
+  my_dbdata:

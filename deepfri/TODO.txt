@@ -1,0 +1,3 @@
+Replace all the code in config
+Create test files - Aim for 80%
+Build front end - Hard dependency on react course 
